@@ -1,10 +1,9 @@
-class Dog(object):
-	"""docstring for Dog"""
-	def eat(self):
-		print("吃")
-	def run(self):
-		print("跑")
+def A(func):
+	print("A")
+	return func
+def B():
+	print("B")
+	#return "b返回值"
 
-gou = Dog()
-gou.eat()
-gou.run()
+a=A(B())
+print(a)
