@@ -19,19 +19,19 @@ tcpClientSocket.send(mss)#发送
 #	接收对⽅发送过来的数据，最⼤接收1024个字节
 recvData = tcpClientSocket.recv(4096)#收到的是二进制流
 print("服务器返回值1"+str(recvData))
-join = b"type@=joingroup/rid@=122402/gid@=-9999/\0"
+join = "type@=joingroup/rid@=122402/gid@=-9999/\0"
 #msg_type = MESSAGE_TYPE_FROM_SERVER
-jss = pack('<llhbb%ds'%(len(join)), len(join)+8, len(join)+8, msg_type, 0, 0, join)#发送入组消息
+jss = pack('<llhbb%ds'%(len(join)), len(join)+8, len(join)+8, msg_type, 0, 0, join.encode("utf-8"))#发送入组消息
 tcpClientSocket.send(jss)
 m ={}
 while True:
     m ={}
-    data = tcpClientSocket.recv(4096)  # data就是接受到的消息
+    data = tcpClientSocket.recv(1024)  # data就是接受到的消息
     if not data:
         time.sleep(0.01)
         continue
  #   print(data)
-    buff = data.decode('latin-1')
+    buff = data.decode('utf-8')
 #    print(buff)
     buff_len = len(buff)
 
