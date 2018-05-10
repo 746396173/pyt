@@ -1,0 +1,15 @@
+b'face@AAS201804@AAS41d5a9bff742965c8739212b6a22fb47@ASne@AA=1@ASlv@AA=27@ASrk@AA=11@ASpg@AA=1@ASrg@AA=1@ASsahf@AA=0@AS@Suid@AA=173301684@ASnn@AA=\xe6\xb5\xb7\xe5\x93\xa5\xe6\xb5\xb7\xe9\xb8\xbd@ASicon@AA=avanew@AASface@AAS201802@AAS03@AAS20@AAS28b97e366a6c84eed820bb6a5a45bbfb@ASne@AA=1@ASlv@AA=22@ASrk@AA=11@ASpg@AA=1@ASrg@AA=1@ASsahf@AA=0@AS@Suid@AA=14473793@ASnn@AA=\xe5\x8f\xb6\xe6\x80\x9d\xe7\xa7\x8b\xe7\x9a\x84\xe8\x80\x81\xe5\x85\xac@ASicon@AA=avanew@AASface@AAS201802@AAS26@AAS03@AAS76753b1789a470c92cfb6e0d14bb1028@ASne@AA=7@ASlv@AA=56@ASrk@AA=7@ASpg@AA=1@ASrg@AA=4@ASsahf@AA=0@AS@Suid@AA=928925@ASnn@AA=\xe8\xb7\xaf\xe9\xa3\x9e\xe4\xb8\xb6\xe4\xb8\xb6@ASicon@AA=avanew@AASface@AAS201702@AAS19@AAS11@AASbfd31fe2ef24c86dd31c061ddf606706@ASne@AA=7@ASlv@AA=46@ASrk@AA=7@ASpg@AA=1@ASrg@AA=4@ASsahf@AA=0@AS@Suid@AA=170684872@ASnn@AA=\xe5\x96\xb5\xe5\x87\xa0\xe7\x9a\x84\xe5\xae\x85\xe5\x9f\xba\xe9\x80\x81@ASicon@AA=avanew@AASface@AAS201803@AAS01@AAS20@AASe1f59be530d5aa58f1518577407f760a@ASne@AA=7@ASlv@AA=41@ASrk@AA=7@ASpg@AA=1@ASrg@AA=1@ASsahf@AA=0@AS@S/\x00\x9b\x00\x00\x00\x9b\x00\x00\x00\xb2\x02\x00\x00type@=noble_num_info/sum@=79/list@=lev@AA=3@ASnum@AA=2@AS@Slev@AA=2@ASnum@AA=2@AS@Slev@AA=1@ASnum@AA=13@AS@Slev@AA=7@A'
+'utf-8' codec can't decode byte 0x9b in position 882:
+
+type@=chatmsg/rid@=122402/ct@=14/uid@=200565720/nn@=斗鱼用户kqlF8xp3/txt@=2洣m人妻╬💗 WW E 1⒌Ḝ 💗/cid@=9b424caabb2748fbf8de100000000000/ic@=avatar@Sdefault@S06/level@=1/sahf@=0/bnn@=/bl@=0/brid@=0/hc@=/el@=/lk@=/
+'NoneType' object has no attribute 'group'
+
+type@=chatmsg/rid@=122402/uid@=3715613/nn@=进击的神乐/txt@=弹幕输入 #电影名-积分 可点播想看的电影喔~/cid@=9b424caabb2748fba8e7100000000000/ic@=avatar@S003@S71@S56@S13_avatar/level@=43/sahf@=0/nl@=1/rg@=4/bdlv@=3/cst@=1524930686577/bnn@=吓S你/bl@=21/brid@=20415/hc@=0f72279a7f949861b451dbdc12c2dff2/el@=/lk@=/
+'NoneType' object has no attribute 'group'
+
+288016
+122402
+78561
+
+
+uid = 200217243
