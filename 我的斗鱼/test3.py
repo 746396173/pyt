@@ -104,7 +104,7 @@ def d_m(t, room):
                 #写入数据库
                 shujuku(ret1,ret2,ret3)
                 #控制台输出
-                #print(str(dm_n) + "-->" +ret1 + ret2 + ":" + ret3)
+                print(str(dm_n) + "-->" +ret1 + ret2 + ":" + ret3)
                 dm_n += 1
 
             else:

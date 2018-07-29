@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head> 
+<meta charset="utf-8"> 
+<title>表单邮件发送测试</title> 
+</head>
+<body>
+
+<h3>发送邮件</h3>
+
+<form action="/post1/" method="post">
+    主题:<br>
+        <input type="text" name="tittle" value=""><br>
+    内容:<br>
+        <input type="text" name="content" value=""><br>
+        <input type="submit" value="发送">
+        <input type="reset" value="重置">
+</form>
+    <p>已发送主题：{{ name }}</p>
+</body>
+</html>

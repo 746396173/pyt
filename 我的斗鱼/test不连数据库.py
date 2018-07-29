@@ -7,27 +7,30 @@ import pymysql
 
 MESSAGE_TYPE_FROM_CLIENT = 689
 MESSAGE_TYPE_FROM_SERVER = 690
-#tcpClientSocket = None
 
-#打开数据库连接
-db = pymysql.connect("localhost","root","121115","test1",charset='utf8')
-#使用cursor（）方法创建一个游标对象 cursor
-cursor = db.cursor()
+
+# tcpClientSocket = None
+
+# 打开数据库连接
+# db = pymysql.connect("localhost","root","121115","test1",charset='utf8')
+# 使用cursor（）方法创建一个游标对象 cursor
+# cursor = db.cursor()
 # 使用 execute（）方法执行 SQL查询
-cursor.execute("SELECT VERSION()")
+# cursor.execute("SELECT VERSION()")
 
 # 使用fetchone（）方法获取单条数据
-data = cursor.fetchone()
-#print("databse version:%s" % data)
+# data = cursor.fetchone()
+# print("databse version:%s" % data)
 
 
+def shujuku(ui, u, d):
+    global cursor, db
+    uid = ui
+    user = u
+    danmu = d
 
-def shujuku(ui,u,d):
-    global cursor,db
-    uid =ui
-    user =u
-    danmu =d
 
+'''
     # SQL 插入语句
     sql = """INSERT INTO msi(uid,user,danmu)
          VALUES ('%s','%s','%s')"""%(uid,user,danmu)#注意写法
@@ -41,6 +44,9 @@ def shujuku(ui,u,d):
         print(e)
         db.rollback()
        # 如果发生错误则回滚
+'''
+
+
 def lian():
     serAddr = ('openbarrage.douyutv.com', 8601)
     tcpClientSocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -48,7 +54,8 @@ def lian():
     print("socket信息" + str(tcpClientSocket))
     return tcpClientSocket
 
-def jin(t,room_in):
+
+def jin(t, room_in):
     room = room_in
     tcpClientSocket = t
     message_body = b'type@=loginreq/roomid@=%d/\0' % (room)  # 转义后要发送的 数据部分字符串必须是二进制的
@@ -62,13 +69,15 @@ def jin(t,room_in):
     join = "type@=joingroup/rid@=%d/gid@=-9999/\0" % (room)
     jss = pack('<llhbb%ds' % (len(join)), len(join) + 8, len(join) + 8, msg_type, 0, 0, join.encode("utf-8"))  # 发送入组消息
     tcpClientSocket.send(jss)
+
+
 def d_m(t, room_in):
     room = room_in
     tcpClientSocket = t
-    jin(tcpClientSocket ,room)
-    pattern1 = r"nn@=[\S]+/txt@="   #昵称     \s	匹配任意空白字符，等价于 [\t\n\r\f]。\S 匹配任意非空字符，有空格则不符合
-    pattern2 = r"/txt@=[\S\s]+/cid@="#弹幕     匹配任意字符
-    pattern3 = r"/uid@=[\S]+/nn@="#用户uid
+    jin(tcpClientSocket, room)
+    pattern1 = r"nn@=[\S]+/txt@="  # 昵称     \s	匹配任意空白字符，等价于 [\t\n\r\f]。\S 匹配任意非空字符，有空格则不符合
+    pattern2 = r"/txt@=[\S\s]+/cid@="  # 弹幕     匹配任意字符
+    pattern3 = r"/uid@=[\S]+/nn@="  # 用户uid
 
     dm_n = 0
 
@@ -79,11 +88,11 @@ def d_m(t, room_in):
         data = tcpClientSocket.recv(1024)  # data就是接受到的消息
         if not data:
             print("-------------nodata重连----------")
-            #print(data)
+            # print(data)
             tcpClientSocket.close()
             time.sleep(2)
             tcpClientSocket = lian()
-            jin(tcpClientSocket,room)
+            jin(tcpClientSocket, room)
             # time.sleep(0.01)
             continue
 
@@ -102,13 +111,13 @@ def d_m(t, room_in):
 
             if current_body_length < needed_body_length:
                 # print '[Packet] Insufficient packet body data'
-                #print(None)
+                # print(None)
                 pass
 
             if current_body_length >= needed_body_length:
                 body = body[0:needed_body_length]
                 # print '[Packet] Packet body trimmed: %s' % body
-                body = body.decode("utf-8")#解码
+                body = body.decode("utf-8")  # 解码
                 m_match = re.match(r'type@=chatmsg', body)  # 匹配 chatmsg
             else:
                 m_match = False
@@ -116,19 +125,23 @@ def d_m(t, room_in):
                 ret1 = re.search(pattern3, body).group()[6:-5]
                 ret2 = re.search(pattern1, body).group()[4:-6]
                 ret3 = re.search(pattern2, body).group()[6:-6]
-                #写入数据库
-                shujuku(ret1,ret2,ret3)
+                # 写入数据库
+                #                shujuku(ret1,ret2,ret3)
                 ##print(str(room))
-                #控制台输出
-                #print(str(dm_n) + "-->" +ret1 + ret2 + ":" + ret3)
+                # 控制台输出
+                print(str(dm_n) + "-->" +ret1 + ret2 + ":" + ret3)
                 dm_n += 1
 
             else:
                 pass
         except BaseException as e:
+            # 输出错误与结果
+            '''
             print(body)
             print(e)
+            '''
             pass
+
 
 def keeplive(t):
     tcpClientSocket = t
@@ -137,22 +150,23 @@ def keeplive(t):
         message_body = b'type@=mrkl/" + \0'
         msg_type = MESSAGE_TYPE_FROM_CLIENT
         mss = pack('<llhbb%ds' % (len(message_body)), len(message_body) + 8, len(message_body) + 8,
-                   msg_type, 0, 0,message_body)  # 打包成二进制流
+                   msg_type, 0, 0, message_body)  # 打包成二进制流
         tcpClientSocket.send(mss)  # 发送
         print('发送心跳包')
         time.sleep(44)
 
+
 if __name__ == "__main__":
-    
-    room_tup =[]
+
+    room_tup = []
     room_num = input("同时收集房间数：")
     room_num = int(room_num)
-    for i in range(0,room_num):
+    for i in range(0, room_num):
         room = input("请输入房间号：")
         room_tup.append(room)
     for room in room_tup:
         # print(t)
-        p1 = multiprocessing.Process(target=d_m, name= room, args=(lian(), int(room)))
+        p1 = multiprocessing.Process(target=d_m, name=room, args=(lian(), int(room)))
         print("-------start---------")
         print(p1.name)
         p1.start()
