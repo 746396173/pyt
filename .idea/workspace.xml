@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af835990-0ee8-4de2-afc5-648fdff15b52" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
     </list>
     <ignored path=".idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,17 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="互不相同无重复数字三位数.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/question/互不相同无重复数字三位数.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -158,7 +147,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="543" />
     <option name="y" value="110" />
     <option name="width" value="594" />
@@ -627,7 +616,7 @@
       <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.52008927" side_tool="true" weight="0.4659091" />
       <window_info anchor="bottom" id="Version Control" order="1" sideWeight="0.4799107" weight="0.5064935" />
       <window_info anchor="bottom" x="458" y="216" width="863" height="467" id="Python Console" order="2" sideWeight="0.49394855" type="WINDOWED" weight="0.6691589" />
-      <window_info active="true" anchor="bottom" id="Run" order="10" sideWeight="0.48260212" visible="true" weight="0.54058444" />
+      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.48260212" weight="1.0" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.11552028" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.19964664" />
       <window_info id="Favorites" order="0" side_tool="true" />
