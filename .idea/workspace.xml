@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af835990-0ee8-4de2-afc5-648fdff15b52" name="Default" comment="" />
+    <list default="true" id="af835990-0ee8-4de2-afc5-648fdff15b52" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path=".idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="1.html" pinned="false" current-in-tab="true">
-        <entry file="file://F:/json/learn/1.html">
+      <file leaf-file-name="互不相同无重复数字三位数.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/question/互不相同无重复数字三位数.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            <state relative-caret-position="152">
+              <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -101,7 +104,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/djproject/ttsx/df_user/urls.py" />
         <option value="$PROJECT_DIR$/djproject/ttsx/ttsx/testdb.py" />
         <option value="$PROJECT_DIR$/djproject/ttsx/df_user/apps.py" />
         <option value="$PROJECT_DIR$/djproject/ttsx/dfuser/models.py" />
@@ -152,11 +154,13 @@
         <option value="$PROJECT_DIR$/我的斗鱼/test4.py" />
         <option value="$PROJECT_DIR$/我的斗鱼/test不连数据库.py" />
         <option value="F:/json/learn/1.html" />
+        <option value="$PROJECT_DIR$/question/互不相同无重复数字三位数.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="662" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="543" />
+    <option name="y" value="110" />
     <option name="width" value="594" />
     <option name="height" value="704" />
   </component>
@@ -168,22 +172,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="pyt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="json" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pyt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="json" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -263,6 +251,22 @@
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pyt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pyt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyt" type="462c0819:PsiDirectoryNode" />
+              <item name="question" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -308,7 +312,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test不连数据库">
+  <component name="RunManager" selected="Python.互不相同无重复数字三位数">
+    <configuration name="互不相同无重复数字三位数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/question" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/question/互不相同无重复数字三位数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="字符画2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyt" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -399,24 +421,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="test3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pyt" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/我的斗鱼" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/我的斗鱼/test3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="test4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyt" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -437,18 +441,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.test4" />
-      <item itemvalue="Python.test3" />
       <item itemvalue="Python.test2" />
       <item itemvalue="Python.test1" />
       <item itemvalue="Python.test不连数据库" />
+      <item itemvalue="Python.互不相同无重复数字三位数" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.互不相同无重复数字三位数" />
         <item itemvalue="Python.test不连数据库" />
         <item itemvalue="Python.test1" />
         <item itemvalue="Python.test2" />
         <item itemvalue="Python.test4" />
-        <item itemvalue="Python.test3" />
       </list>
     </recent_temporary>
   </component>
@@ -617,14 +621,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.18973215" />
       <window_info anchor="bottom" id="TODO" order="9" sideWeight="0.49924356" weight="0.32467532" />
       <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.52008927" side_tool="true" weight="0.4659091" />
       <window_info anchor="bottom" id="Version Control" order="1" sideWeight="0.4799107" weight="0.5064935" />
       <window_info anchor="bottom" x="458" y="216" width="863" height="467" id="Python Console" order="2" sideWeight="0.49394855" type="WINDOWED" weight="0.6691589" />
-      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.48260212" weight="0.54063606" />
+      <window_info active="true" anchor="bottom" id="Run" order="10" sideWeight="0.48260212" visible="true" weight="0.54058444" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.11552028" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.19964664" />
       <window_info id="Favorites" order="0" side_tool="true" />
@@ -691,13 +694,7 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://F:/json/learn/1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://F:/json/learn/1.html" />
     <entry file="file://$PROJECT_DIR$/djproject/blogproject/blog/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -1032,10 +1029,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://F:/json/learn/1.html">
+    <entry file="file://F:/json/learn/1.html" />
+    <entry file="file://$PROJECT_DIR$/question/互不相同无重复数字三位数.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        <state relative-caret-position="152">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
         </state>
       </provider>
     </entry>
