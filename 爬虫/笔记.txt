@@ -1,0 +1,27 @@
+爬虫运行命令
+scrapy crawl 爬虫名字
+
+定位
+body > div.mb.cl.no_bgimg > div.mlist.cl > div:nth-child(31) > div.minfo > h2 > a   标题
+
+
+路径 谷歌浏览器找到元素右键复制xpath
+/html/body/div[2]/div[2]/div[30]/div[2]/h2/a    标题
+/html/body/div[2]/div[2]/div[30]/div[2]/ul/li[1] 类型
+/html/body/div[2]/div[2]/div[30]/div[2]/ul/li[2] 地区
+
+元素里找属性
+/html/body/div[2]/div[2]/div[30]/div[2]/h2/a/@title  属性前加@  标题
+完整句子（不加text（））
+response.xpath('/html/body/div[2]/div[2]/div/div[2]/h2/a/@title').extr
+act()
+
+body > div.mb.cl.no_bgimg > ul > div > li:nth-child(2)
+body > div.mb.cl.no_bgimg > ul > div > li:nth-child(2) > a
+body > div.mb.cl.no_bgimg > ul > div > li:nth-child(3) > a
+/html/body/div[4]/ul/div/li[2]/a
+/html/body/div[4]/ul/div/li[4]
+
+https://blog.csdn.net/fragmentalice/article/details/74543993
+利用scrapy crawl命令执行爬虫时，数据输出到文件时会保存原始的编码，比如中文会保存为\uXXXX格式。如果想保存中文字符串，需要在添加参数：-s FEED_EXPORT_ENCODING=utf-8
+scrapy crawl spridername -o items.json -s FEED_EXPORT_ENCODING=utf-8

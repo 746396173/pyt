@@ -17,6 +17,7 @@
       <option name="ignoredIdentifiers">
         <list>
           <option value="blog.models.Category.objects" />
+          <option value="爬虫.dianying.dianying.spiders.dmoz_spider.*" />
         </list>
       </option>
     </inspection_tool>

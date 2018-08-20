@@ -1,0 +1,17 @@
+视频网页按钮地址     //*[@id="j3"]/a[1]
+response.xpath('//*[@id="j3"]/a[1]/@href').extract()
+['/x1y1']
+
+
+//*[@id="nb"]/video
+//*[@id="nb"]/video
+//*[@id="nb"]/video/source
+视频地址 里面有我的ip？？？？
+http://k.syasn.com/xy/x1y1.mp4?k1=223.91.197.113&k2=ms&k3=9a85c80348299cd05a6f3ade19fdf6b9&k4=c638c7c0fb3b760d65ebec2e8718a8ec&k5=x1y1&k6=36404e9f51289363631928e79c58321f_b005f69a27a0f0041e6c856166de6ed8&k7=6.0&end=60&end=300
+
+真正下载地址http://z.syasn.com/xy/x1y1.mp4?end=180&dz=k.syasn.com
+
+http://z.syasn.com/xy/编号.mp4?end=1080&dz=k.syasn.com    凭运气找到
+
+http://k.syasn.com/xy/x1y1.mp4?k1=223.91.197.113&k2=ms&k3=9a85c80348299cd05a6f3ade19fdf6b9&k4=6f82b307c8dcc915558911b8321139a5&k5=x1y1&k6=36404e9f51289363631928e79c58321f_b005f69a27a0f0041e6c856166de6ed8&k7=6.0&end=60&end=300
+http://k.syasn.com/xy/x15y13.mp4?k1=223.91.197.113&k2=ms&k3=fe4a3dabd47070a7278a9a2aa15f7e9b&k4=d613026dd1ba5dc8c83c68bf99303de1&k5=x15y13&k6=c964099aeec2a2a2a083c16412c98508_2c5107b6c1f0b38195fe9ed0d7d61df7&k7=6.0&end=60&end=300
