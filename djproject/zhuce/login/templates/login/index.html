@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+{% block title %}主页{% endblock %}
+{% block content %}
+    {% if request.session.is_login %}
+        <h1>欢迎{{ request.session.user_name }}回来！你的卡密地址是 {{ request.session.user_kami}}</h1>
+    {% else %}
+        <h1>你尚未登陆</h1>
+    {% endif %}
+{% endblock %}
