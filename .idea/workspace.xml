@@ -1,60 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/爬虫/caoliu/tu1.py" line="20" mnemonic="9" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="af835990-0ee8-4de2-afc5-648fdff15b52" name="Default" comment="2018年10月3日13:00:21">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/Django命令.txt" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/Django命令.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/anaconda命令.txt" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/anaconda命令.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/mysite/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/mysite/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/mysite/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/mysite/mysite/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/mysite/mysite/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/mysite/mysite/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/mysite/polls/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/mysite/polls/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/mysite/polls/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/mysite/polls/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/mysite/polls/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/mysite/polls/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/mysite/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/mysite/polls/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/mysite/polls/templates/polls/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/mysite/polls/templates/polls/detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/mysite/polls/templates/polls/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/mysite/polls/templates/polls/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/mysite/polls/templates/polls/results.html" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/mysite/polls/templates/polls/results.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/mysite/polls/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/mysite/polls/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/mysite/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/mysite/polls/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/mysite/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/mysite/polls/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/mysite/说明.txt" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/mysite/说明.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/mysite改进版 类视图/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/mysite改进版 类视图/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/mysite改进版 类视图/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/mysite改进版 类视图/mysite/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/mysite改进版 类视图/mysite/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/mysite改进版 类视图/mysite/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/mysite改进版 类视图/polls/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/mysite改进版 类视图/polls/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/mysite改进版 类视图/polls/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/mysite改进版 类视图/polls/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/mysite改进版 类视图/polls/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/mysite改进版 类视图/polls/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/mysite改进版 类视图/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/mysite改进版 类视图/polls/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/mysite改进版 类视图/polls/static/polls/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/mysite改进版 类视图/polls/static/polls/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/mysite改进版 类视图/polls/templates/polls/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/mysite改进版 类视图/polls/templates/polls/detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/mysite改进版 类视图/polls/templates/polls/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/mysite改进版 类视图/polls/templates/polls/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/mysite改进版 类视图/polls/templates/polls/results.html" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/mysite改进版 类视图/polls/templates/polls/results.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/mysite改进版 类视图/polls/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/mysite改进版 类视图/polls/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/mysite改进版 类视图/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/mysite改进版 类视图/polls/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/mysite改进版 类视图/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/mysite改进版 类视图/polls/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/mysite改进版 类视图/说明.txt" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/mysite改进版 类视图/说明.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/zhuce/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/zhuce/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/zhuce/login/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/zhuce/login/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/zhuce/login/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/zhuce/login/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/zhuce/login/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/zhuce/login/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/zhuce/login/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/zhuce/login/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/zhuce/login/migrations/0002_user_kami.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/zhuce/login/migrations/0002_user_kami.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/zhuce/login/migrations/0003_auto_20181003_0001.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/zhuce/login/migrations/0003_auto_20181003_0001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/zhuce/login/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/zhuce/login/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/zhuce/login/templates/login/confirm.html" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/zhuce/login/templates/login/confirm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/zhuce/login/templates/login/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/zhuce/login/templates/login/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/zhuce/login/templates/login/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/zhuce/login/templates/login/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/zhuce/login/templates/login/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/zhuce/login/templates/login/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/zhuce/login/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/zhuce/login/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/zhuce/login/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/zhuce/login/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/zhuce/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/zhuce/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/zhuce/static/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/zhuce/static/css/login.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/zhuce/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/zhuce/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/zhuce/zhuce/settings.example.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/zhuce/zhuce/settings.example.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/zhuce/zhuce/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/zhuce/zhuce/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djproject/zhuce/zhuce/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/zhuce/zhuce/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pyt.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pyt.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/爬虫/caoliu/tu1.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/caoliu/tu1.py" afterDir="false" />
     </list>
     <ignored path=".idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -120,23 +74,35 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1489226305">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="30" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="30" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/djproject/zhuce/zhuce/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="424">
-              <caret line="118" column="28" selection-start-line="118" selection-start-column="28" selection-end-line="118" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/djproject/zhuce/zhuce/settings.example.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="124" lean-forward="true" selection-start-line="124" selection-end-line="124" />
+            <state relative-caret-position="2976">
+              <caret line="124" selection-start-line="124" selection-end-line="124" />
             </state>
           </provider>
         </entry>
@@ -144,7 +110,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/djproject/zhuce/manage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="101">
+            <state relative-caret-position="192">
               <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
               <folding>
                 <element signature="e#22#31#0" expanded="true" />
@@ -155,15 +121,13 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/djproject/yrcxcx/yrcxcx/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1547" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
+            <state relative-caret-position="2568">
               <caret line="107" column="11" selection-start-line="107" selection-start-column="11" selection-end-line="107" selection-end-column="11" />
             </state>
           </provider>
@@ -174,11 +138,20 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/我的斗鱼/斗鱼/dou3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="95" column="29" lean-forward="true" selection-start-line="95" selection-start-column="29" selection-end-line="95" selection-end-column="29" />
+            <state relative-caret-position="2184">
+              <caret line="95" column="29" selection-start-line="95" selection-start-column="29" selection-end-line="95" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/爬虫/caoliu/tu1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -186,8 +159,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/djproject/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+            <state relative-caret-position="360">
+              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -195,7 +168,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/djproject/zhuce/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
+            <state relative-caret-position="72">
               <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
             </state>
           </provider>
@@ -204,7 +177,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/djproject/zhuce/login/admin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
+            <state relative-caret-position="120">
               <caret line="6" selection-start-line="6" selection-end-line="6" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
@@ -225,7 +198,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>data</find>
       <find>inst</find>
       <find>df</find>
       <find>sta</find>
@@ -255,6 +227,7 @@
       <find>f</find>
       <find>LANGUAGE_CODE</find>
       <find>SECRET_KEY</find>
+      <find>paths</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -290,10 +263,12 @@
       </branch-storage>
     </excluded-from-favorite>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/爬虫/caoliu/tu1.py" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/爬虫/dianying/dianying/pipelines.py" />
         <option value="$PROJECT_DIR$/爬虫/dianying/dianying/settings.py" />
         <option value="$PROJECT_DIR$/爬虫/dianying/笔记.txt" />
         <option value="$PROJECT_DIR$/爬虫/dianying/dianying/spiders/dmoz_spider.py" />
@@ -344,6 +319,7 @@
         <option value="$PROJECT_DIR$/djproject/zhuce/.gitignore" />
         <option value="$PROJECT_DIR$/djproject/zhuce/zhuce/settings.example.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/爬虫/caoliu/tu1.py" />
       </list>
     </option>
   </component>
@@ -354,7 +330,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="683" />
+    <option name="x" value="467" />
+    <option name="y" value="117" />
     <option name="width" value="683" />
     <option name="height" value="738" />
   </component>
@@ -366,17 +343,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="pyt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pyt" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -476,6 +442,22 @@
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pyt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pyt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyt" type="462c0819:PsiDirectoryNode" />
+              <item name="网络" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -487,7 +469,7 @@
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="D:/Git/bin/git.exe" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -525,7 +507,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.send_mail (1)">
+  <component name="RunManager" selected="Python.tu1">
     <configuration name="互不相同无重复数字三位数" type="PythonConfigurationType" factoryName="Python">
       <module name="pyt" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -902,23 +884,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25869894" />
+      <window_info auto_hide="true" content_ui="combo" id="Project" order="1" weight="0.20758928" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.11552028" />
       <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.5113485" side_tool="true" weight="0.33166668" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="1" sideWeight="0.4799107" visible="true" weight="0.38709676" />
-      <window_info anchor="bottom" x="322" y="279" width="863" height="467" id="Python Console" order="2" sideWeight="0.49394855" type="WINDOWED" weight="0.6691589" />
-      <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.48865154" weight="0.17419355" />
+      <window_info anchor="bottom" id="Version Control" order="1" sideWeight="0.4799107" weight="0.20655738" />
+      <window_info anchor="bottom" x="292" y="199" width="863" height="467" id="Python Console" order="2" sideWeight="0.49394855" type="WINDOWED" weight="0.6691589" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" sideWeight="0.48865154" visible="true" weight="0.2852459" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.325" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.22402598" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" sideWeight="0.49924356" weight="0.32333332" />
-      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.48260212" weight="0.36774194" />
+      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.48260212" weight="0.36557376" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="R Packages" order="0" />
@@ -979,13 +961,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="2018年10月3日13:00:21" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/djproject/mysite/polls/templates/polls/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/djproject/mysite/polls/templates/polls/detail.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -994,13 +969,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/djproject/mysite/polls/templates/results.html" />
-    <entry file="file://$PROJECT_DIR$/djproject/mysite/mysite/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-220">
-          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/djproject/mysite/mysite/settings.py" />
     <entry file="file://$PROJECT_DIR$/djproject/mysite/polls/templates/polls/results.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -1134,9 +1103,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#640#680#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1147,13 +1113,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/mysite改进版 类视图/mysite/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="116" lean-forward="true" selection-start-line="116" selection-end-line="116" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/djproject/mysite改进版 类视图/mysite/settings.py" />
     <entry file="file://$PROJECT_DIR$/djproject/zhuce/send_mail.py" />
     <entry file="file://$PROJECT_DIR$/djproject/zhuce/login/templates/login/index.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -1187,10 +1147,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-            <marker date="1538411223360" expanded="true" signature="93:98" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1205,9 +1161,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="665">
           <caret line="41" selection-start-line="41" selection-end-line="41" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1229,53 +1182,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-          <folding>
-            <marker date="1538495577448" expanded="true" signature="820:825" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/zhuce/login/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/zhuce/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/zhuce/zhuce/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="118" column="28" selection-start-line="118" selection-start-column="28" selection-end-line="118" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/djproject/zhuce/zhuce/settings.py" />
     <entry file="file://$PROJECT_DIR$/djproject/zhuce/zhuce/settings.example.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="124" lean-forward="true" selection-start-line="124" selection-end-line="124" />
+        <state relative-caret-position="2976">
+          <caret line="124" selection-start-line="124" selection-end-line="124" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/djproject/zhuce/manage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
+        <state relative-caret-position="192">
           <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
           <folding>
             <element signature="e#22#31#0" expanded="true" />
@@ -1284,13 +1204,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/djproject/yrcxcx/yrcxcx/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1547" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
+        <state relative-caret-position="2568">
           <caret line="107" column="11" selection-start-line="107" selection-start-column="11" selection-end-line="107" selection-end-column="11" />
         </state>
       </provider>
@@ -1300,8 +1218,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/我的斗鱼/斗鱼/dou3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="95" column="29" lean-forward="true" selection-start-line="95" selection-start-column="29" selection-end-line="95" selection-end-column="29" />
+        <state relative-caret-position="2184">
+          <caret line="95" column="29" selection-start-line="95" selection-start-column="29" selection-end-line="95" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/djproject/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/djproject/zhuce/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/djproject/zhuce/login/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/caoliu/tu1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
         </state>
       </provider>
     </entry>

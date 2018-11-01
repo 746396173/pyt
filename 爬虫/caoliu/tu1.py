@@ -5,7 +5,7 @@ import os
 import requests
 import json
 import time
-
+import lxml
 import OpenSSL
 mainsite="http://t66y.com/"
 def getbs(url):
@@ -15,7 +15,7 @@ def getbs(url):
                 }
         req=requests.get(url,headers=header)
         req.encoding="gbk"#这里因为1024图片帖子内的编码是gbk,如果不指明编码，得到的是乱码
-        bsobj = BeautifulSoup(req.text, "html5lib")
+        bsobj = BeautifulSoup(req.text, "lxml")
         return bsobj
 
 def getallpage(start,end):
@@ -28,7 +28,7 @@ def getallpage(start,end):
 def getpicofpage(url):
         pattern = r'src="http[\S]+?"'
 
-        paths = "G:/tu/"
+        paths = "F:/photos/se/"
         bsobj=getbs(url)
         div=bsobj.find("div",{"class":"tpc_content do_not_catch"})
         if div==None:
