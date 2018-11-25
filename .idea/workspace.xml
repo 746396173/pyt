@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/爬虫/caoliu/tu1.py" line="20" mnemonic="9" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="af835990-0ee8-4de2-afc5-648fdff15b52" name="Default" comment="2018年10月3日13:00:21">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pyt.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pyt.iml" afterDir="false" />
+    <list default="true" id="af835990-0ee8-4de2-afc5-648fdff15b52" name="Default" comment="2018年11月1日23:24:49">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/caoliu/tu1.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/caoliu/tu1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/爬虫/caoliu/tu1.py" beforeDir="false" />
     </list>
     <ignored path=".idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -77,53 +73,47 @@
     <session id="-1489226305">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.22" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.22" value="3" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="30" />
+          <entry key="Python Console" value="368" />
+          <entry key="dummy" value="9" />
+          <entry key="py" value="2575" />
+          <entry key="txt" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="30" />
+          <entry key="PLAIN_TEXT" value="31" />
+          <entry key="Python" value="2943" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="8" />
         </counts>
       </usages-collector>
     </session>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="pyt" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/djproject/zhuce/zhuce/settings.example.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2976">
-              <caret line="124" selection-start-line="124" selection-end-line="124" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/djproject/zhuce/manage.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-              <folding>
-                <element signature="e#22#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/djproject/yrcxcx/yrcxcx/settings.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
@@ -147,43 +137,77 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/爬虫/caoliu/tu1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/djproject/requirements.txt">
+        <entry file="file://$PROJECT_DIR$/爬虫/caoliu/tu.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/djproject/zhuce/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/djproject/zhuce/login/admin.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="2040">
+              <caret line="93" selection-start-line="93" selection-end-line="93" />
               <folding>
-                <element signature="e#0#32#0" expanded="true" />
+                <element signature="e#0#29#0" expanded="true" />
+                <marker date="1541150181312" expanded="true" signature="2303:2304" ph="..." />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/爬虫/caoliu/javfinder.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="711">
+              <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+              <folding>
+                <element signature="e#88#117#0" expanded="true" />
+                <marker date="1541184646093" expanded="true" signature="291:299" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/基础/1-复制大文件.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/小程序/移动文件.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-19">
+              <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+              <folding>
+                <element signature="e#15#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://E:/btsync/记录/bbc蓝色星球/04/移动文件.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="e#15#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://E:/orangesync/ssss/~神秘代碼C/@VENUS[VEMA]/JAVCoverDL.ver2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="159">
+              <caret line="84" column="41" selection-start-line="84" selection-end-line="84" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/爬虫/caoliu/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -191,16 +215,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>inst</find>
-      <find>df</find>
-      <find>sta</find>
       <find>lan</find>
       <find>apps</find>
       <find>ASIA</find>
@@ -228,6 +249,9 @@
       <find>LANGUAGE_CODE</find>
       <find>SECRET_KEY</find>
       <find>paths</find>
+      <find>OpenSSL</find>
+      <find>title</find>
+      <find>720</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -264,17 +288,11 @@
     </excluded-from-favorite>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/爬虫/caoliu/tu1.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/爬虫/caoliu/tu.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/爬虫/dianying/dianying/settings.py" />
-        <option value="$PROJECT_DIR$/爬虫/dianying/笔记.txt" />
-        <option value="$PROJECT_DIR$/爬虫/dianying/dianying/spiders/dmoz_spider.py" />
-        <option value="$PROJECT_DIR$/数据库/sqlite/1.py" />
-        <option value="$PROJECT_DIR$/数据库/sqlite/笔记.txt" />
-        <option value="$PROJECT_DIR$/数据库/sqlite/根据分数段返回名字.py" />
         <option value="$PROJECT_DIR$/爬虫/yiyiyingshi/yiyiyingshi/items.py" />
         <option value="$PROJECT_DIR$/爬虫/yiyiyingshi/url1" />
         <option value="$PROJECT_DIR$/爬虫/yiyiyingshi/url2" />
@@ -320,6 +338,12 @@
         <option value="$PROJECT_DIR$/djproject/zhuce/zhuce/settings.example.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/爬虫/caoliu/tu1.py" />
+        <option value="$PROJECT_DIR$/爬虫/caoliu/tu.py" />
+        <option value="$PROJECT_DIR$/爬虫/caoliu/c.py" />
+        <option value="$PROJECT_DIR$/爬虫/caoliu/javfinder.py" />
+        <option value="E:/btsync/记录/bbc蓝色星球/03/移动文件.py" />
+        <option value="$PROJECT_DIR$/小程序/移动文件.py" />
+        <option value="E:/btsync/记录/bbc蓝色星球/04/移动文件.py" />
       </list>
     </option>
   </component>
@@ -329,119 +353,37 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="467" />
-    <option name="y" value="117" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="683" />
     <option name="width" value="683" />
     <option name="height" value="738" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Python</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <showMembers ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <expand>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="csst" type="cbb8eebc:String" user="csst" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="html" type="cbb8eebc:String" user="html" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="json" type="cbb8eebc:String" user="json" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="C:" type="cbb8eebc:String" user="C:" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="C:" type="cbb8eebc:String" user="C:" />
-              <item name="Users" type="cbb8eebc:String" user="Users" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="C:" type="cbb8eebc:String" user="C:" />
-              <item name="Users" type="cbb8eebc:String" user="Users" />
-              <item name="c" type="cbb8eebc:String" user="c" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="C:" type="cbb8eebc:String" user="C:" />
-              <item name="Users" type="cbb8eebc:String" user="Users" />
-              <item name="c" type="cbb8eebc:String" user="c" />
-              <item name=".PyCharmCE2018.1" type="cbb8eebc:String" user=".PyCharmCE2018.1" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="C:" type="cbb8eebc:String" user="C:" />
-              <item name="Users" type="cbb8eebc:String" user="Users" />
-              <item name="c" type="cbb8eebc:String" user="c" />
-              <item name=".PyCharmCE2018.1" type="cbb8eebc:String" user=".PyCharmCE2018.1" />
-              <item name="system" type="cbb8eebc:String" user="system" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="C:" type="cbb8eebc:String" user="C:" />
-              <item name="Users" type="cbb8eebc:String" user="Users" />
-              <item name="c" type="cbb8eebc:String" user="c" />
-              <item name=".PyCharmCE2018.1" type="cbb8eebc:String" user=".PyCharmCE2018.1" />
-              <item name="system" type="cbb8eebc:String" user="system" />
-              <item name="python_stubs" type="cbb8eebc:String" user="python_stubs" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="C:" type="cbb8eebc:String" user="C:" />
-              <item name="Users" type="cbb8eebc:String" user="Users" />
-              <item name="c" type="cbb8eebc:String" user="c" />
-              <item name=".PyCharmCE2018.1" type="cbb8eebc:String" user=".PyCharmCE2018.1" />
-              <item name="system" type="cbb8eebc:String" user="system" />
-              <item name="python_stubs" type="cbb8eebc:String" user="python_stubs" />
-              <item name="815903027" type="cbb8eebc:String" user="815903027" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="pyt" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-            <path>
-              <item name="pyt" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="djproject" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="pyt" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="djproject" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="mysite改进版 类视图" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -449,15 +391,11 @@
               <item name="pyt" type="b2602c69:ProjectViewProjectNode" />
               <item name="pyt" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="pyt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pyt" type="462c0819:PsiDirectoryNode" />
-              <item name="网络" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -507,7 +445,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tu1">
+  <component name="RunManager" selected="Python.移动文件 (2)">
+    <configuration name="移动文件 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="E:/btsync/记录/bbc蓝色星球/03" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:/btsync/记录/bbc蓝色星球/03/移动文件.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="移动文件 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="E:/btsync/记录/bbc蓝色星球/04" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:/btsync/记录/bbc蓝色星球/04/移动文件.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="互不相同无重复数字三位数" type="PythonConfigurationType" factoryName="Python">
       <module name="pyt" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -522,6 +502,27 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/question/互不相同无重复数字三位数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="移动文件" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/小程序" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/小程序/移动文件.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -548,7 +549,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="hy1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="javfinder" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyt" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -556,12 +557,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/huya" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫/caoliu" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/huya/hy1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫/caoliu/javfinder.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -570,7 +570,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="send_mail (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tu" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyt" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -578,56 +578,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/djproject/zhuce" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫/caoliu" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/djproject/zhuce/send_mail.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="send_mail" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pyt" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/djproject/mysite改进版 类视图" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\pyt\djproject\zhuce\send_mail.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test不连数据库" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pyt" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/我的斗鱼" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/我的斗鱼/test不连数据库.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫/caoliu/tu.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -658,44 +613,22 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="yy_spider" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pyt" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫/yiyiyingshi/yiyiyingshi/spiders" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫/yiyiyingshi/yiyiyingshi/spiders/yy_spider.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.互不相同无重复数字三位数" />
       <item itemvalue="Python.tu1" />
-      <item itemvalue="Python.test不连数据库" />
-      <item itemvalue="Python.yy_spider" />
-      <item itemvalue="Python.hy1" />
-      <item itemvalue="Python.send_mail" />
-      <item itemvalue="Python.send_mail (1)" />
+      <item itemvalue="Python.tu" />
+      <item itemvalue="Python.javfinder" />
+      <item itemvalue="Python.移动文件" />
+      <item itemvalue="Python.移动文件 (1)" />
+      <item itemvalue="Python.移动文件 (2)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.send_mail (1)" />
-        <item itemvalue="Python.send_mail" />
-        <item itemvalue="Python.hy1" />
-        <item itemvalue="Python.yy_spider" />
-        <item itemvalue="Python.test不连数据库" />
+        <item itemvalue="Python.移动文件 (2)" />
+        <item itemvalue="Python.移动文件" />
+        <item itemvalue="Python.移动文件 (1)" />
+        <item itemvalue="Python.javfinder" />
+        <item itemvalue="Python.tu" />
       </list>
     </recent_temporary>
   </component>
@@ -871,7 +804,14 @@
       <option name="project" value="LOCAL" />
       <updated>1538542926020</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="2018年11月1日23:24:49">
+      <created>1541085897723</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1541085897723</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TodoView">
@@ -884,23 +824,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="683" y="0" width="683" height="738" extended-state="0" />
     <layout>
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info auto_hide="true" content_ui="combo" id="Project" order="1" weight="0.20758928" />
+      <window_info id="Favorites" order="0" side_tool="true" weight="0.29464287" />
+      <window_info auto_hide="true" content_ui="combo" x="580" y="218" width="132" height="604" id="Project" order="1" type="WINDOWED" weight="0.16666667" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.11552028" />
-      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.5113485" side_tool="true" weight="0.33166668" />
-      <window_info anchor="bottom" id="Version Control" order="1" sideWeight="0.4799107" weight="0.20655738" />
-      <window_info anchor="bottom" x="292" y="199" width="863" height="467" id="Python Console" order="2" sideWeight="0.49394855" type="WINDOWED" weight="0.6691589" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" sideWeight="0.48865154" visible="true" weight="0.2852459" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.515625" side_tool="true" weight="0.4557377" />
+      <window_info anchor="bottom" id="Version Control" order="1" sideWeight="0.4799107" weight="0.31311476" />
+      <window_info anchor="bottom" x="495" y="139" width="863" height="467" id="Python Console" order="2" sideWeight="0.49394855" type="WINDOWED" weight="0.6691589" />
+      <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.48865154" weight="0.2852459" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.325" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.22402598" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.22295082" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" sideWeight="0.49924356" weight="0.32333332" />
-      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.48260212" weight="0.36557376" />
+      <window_info active="true" anchor="bottom" id="Run" order="10" sideWeight="0.484375" visible="true" weight="0.4718543" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="R Packages" order="0" />
@@ -958,53 +897,10 @@
     <MESSAGE value="2018年8月20日10:36:31" />
     <MESSAGE value="2018年10月3日12:59:05" />
     <MESSAGE value="2018年10月3日13:00:21" />
-    <option name="LAST_COMMIT_MESSAGE" value="2018年10月3日13:00:21" />
+    <MESSAGE value="2018年11月1日23:24:49" />
+    <option name="LAST_COMMIT_MESSAGE" value="2018年11月1日23:24:49" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/djproject/mysite/polls/templates/polls/detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/mysite/polls/templates/results.html" />
-    <entry file="file://$PROJECT_DIR$/djproject/mysite/mysite/settings.py" />
-    <entry file="file://$PROJECT_DIR$/djproject/mysite/polls/templates/polls/results.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="84" selection-start-line="3" selection-start-column="75" selection-end-line="3" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/mysite/polls/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/mysite/polls/apps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/mysite/polls/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/mysite改进版 类视图/polls/templates/polls/detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="37" selection-start-column="37" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/djproject/mysite/polls/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -1186,6 +1082,28 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/djproject/zhuce/zhuce/settings.py" />
+    <entry file="file://$PROJECT_DIR$/djproject/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/djproject/zhuce/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/djproject/zhuce/login/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/caoliu/tu1.py" />
     <entry file="file://$PROJECT_DIR$/djproject/zhuce/zhuce/settings.example.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2976">
@@ -1223,34 +1141,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/requirements.txt">
+    <entry file="file://$PROJECT_DIR$/爬虫/caoliu/tu.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/zhuce/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/zhuce/login/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="2040">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
           <folding>
-            <element signature="e#0#32#0" expanded="true" />
+            <element signature="e#0#29#0" expanded="true" />
+            <marker date="1541150181312" expanded="true" signature="2303:2304" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/caoliu/tu1.py">
+    <entry file="file://$PROJECT_DIR$/爬虫/caoliu/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/orangesync/ssss/~神秘代碼C/@VENUS[VEMA]/JAVCoverDL.ver2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        <state relative-caret-position="159">
+          <caret line="84" column="41" selection-start-line="84" selection-end-line="84" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/btsync/记录/bbc蓝色星球/03/移动文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" selection-end-column="41" />
+          <folding>
+            <element signature="e#15#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基础/1-复制大文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/caoliu/javfinder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="711">
+          <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+          <folding>
+            <element signature="e#88#117#0" expanded="true" />
+            <marker date="1541184646093" expanded="true" signature="291:299" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/小程序/移动文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding>
+            <element signature="e#15#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/btsync/记录/bbc蓝色星球/04/移动文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#15#24#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
