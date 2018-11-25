@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af835990-0ee8-4de2-afc5-648fdff15b52" name="Default" comment="2018年11月1日23:24:49">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/caoliu/tu1.py" beforeDir="false" />
     </list>
     <ignored path=".idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -73,38 +71,50 @@
     <session id="-1489226305">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.22" value="3" />
+          <entry key="project.open.time.22" value="4" />
           <entry key="project.open.time.23" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="368" />
-          <entry key="dummy" value="9" />
-          <entry key="py" value="2575" />
+          <entry key="dummy" value="12" />
+          <entry key="py" value="2655" />
           <entry key="txt" value="22" />
+          <entry key="自动解压rar压缩文件" value="2" />
+          <entry key="解压rar压缩文件" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="31" />
-          <entry key="Python" value="2943" />
+          <entry key="Markdown" value="46" />
+          <entry key="PLAIN_TEXT" value="36" />
+          <entry key="Python" value="3023" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="8" />
+          <entry key="ipynb" value="1" />
+          <entry key="py" value="10" />
+          <entry key="自动解压rar压缩文件" value="1" />
+          <entry key="解压" value="1" />
+          <entry key="解压rar压缩文件" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="8" />
+          <entry key="IPNB" value="1" />
+          <entry key="Markdown" value="2" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="10" />
         </counts>
       </usages-collector>
     </session>
@@ -114,15 +124,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2568">
-              <caret line="107" column="11" selection-start-line="107" selection-start-column="11" selection-end-line="107" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/我的斗鱼/斗鱼/ddd.py">
           <provider selected="true" editor-type-id="text-editor" />
@@ -153,7 +154,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/爬虫/caoliu/javfinder.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="711">
+            <state relative-caret-position="576">
               <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
               <folding>
                 <element signature="e#88#117#0" expanded="true" />
@@ -166,7 +167,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/基础/1-复制大文件.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
+            <state relative-caret-position="168">
               <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
             </state>
           </provider>
@@ -175,8 +176,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/小程序/移动文件.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-19">
-              <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+            <state relative-caret-position="216">
+              <caret line="10" selection-start-line="10" selection-end-line="11" />
               <folding>
                 <element signature="e#15#24#0" expanded="true" />
               </folding>
@@ -185,29 +186,27 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://E:/btsync/记录/bbc蓝色星球/04/移动文件.py">
+        <entry file="file://$PROJECT_DIR$/小程序/自动解压rar压缩文件.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="144">
+              <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
               <folding>
-                <element signature="e#15#24#0" expanded="true" />
+                <element signature="e#15#40#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://E:/orangesync/ssss/~神秘代碼C/@VENUS[VEMA]/JAVCoverDL.ver2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="84" column="41" selection-start-line="84" selection-end-line="84" selection-end-column="41" />
+        <entry file="file://$PROJECT_DIR$/小程序/解压rar压缩文件">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="459">
+                <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/爬虫/caoliu/__init__.py">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -217,6 +216,7 @@
       <list>
         <option value="HTML File" />
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -293,11 +293,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/爬虫/yiyiyingshi/yiyiyingshi/items.py" />
-        <option value="$PROJECT_DIR$/爬虫/yiyiyingshi/url1" />
-        <option value="$PROJECT_DIR$/爬虫/yiyiyingshi/url2" />
-        <option value="$PROJECT_DIR$/爬虫/yiyiyingshi/yiyiyingshi/spiders/yy_spider.py" />
-        <option value="$PROJECT_DIR$/爬虫/yiyiyingshi/笔记.txt" />
         <option value="$PROJECT_DIR$/huya/hy1.py" />
         <option value="$PROJECT_DIR$/djproject/mysite/mysite/settings.py" />
         <option value="$PROJECT_DIR$/djproject/mysite/polls/models.py" />
@@ -344,6 +339,11 @@
         <option value="E:/btsync/记录/bbc蓝色星球/03/移动文件.py" />
         <option value="$PROJECT_DIR$/小程序/移动文件.py" />
         <option value="E:/btsync/记录/bbc蓝色星球/04/移动文件.py" />
+        <option value="E:/新下载/自动解压大量压缩文件.py" />
+        <option value="$PROJECT_DIR$/小程序/自动解压大量压缩文件.py" />
+        <option value="$PROJECT_DIR$/小程序/自动解压rar压缩文件.ipynb" />
+        <option value="$PROJECT_DIR$/小程序/自动解压rar压缩文件" />
+        <option value="$PROJECT_DIR$/小程序/解压rar压缩文件" />
       </list>
     </option>
   </component>
@@ -353,9 +353,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="683" />
-    <option name="width" value="683" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="481" />
+    <option name="y" value="67" />
+    <option name="width" value="811" />
     <option name="height" value="738" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -384,6 +385,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -391,11 +393,15 @@
               <item name="pyt" type="b2602c69:ProjectViewProjectNode" />
               <item name="pyt" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="pyt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyt" type="462c0819:PsiDirectoryNode" />
+              <item name="小程序" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -445,7 +451,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.移动文件 (2)">
+  <component name="RunManager" selected="Python.互不相同无重复数字三位数">
     <configuration name="移动文件 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyt" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -502,6 +508,48 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/question/互不相同无重复数字三位数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="自动解压大量压缩文件" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="E:/新下载" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:/新下载/自动解压大量压缩文件.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="自动解压大量压缩文件" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="E:/新下载" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:/新下载/自动解压大量压缩文件.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -618,14 +666,12 @@
       <item itemvalue="Python.tu1" />
       <item itemvalue="Python.tu" />
       <item itemvalue="Python.javfinder" />
-      <item itemvalue="Python.移动文件" />
       <item itemvalue="Python.移动文件 (1)" />
       <item itemvalue="Python.移动文件 (2)" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.移动文件 (2)" />
-        <item itemvalue="Python.移动文件" />
         <item itemvalue="Python.移动文件 (1)" />
         <item itemvalue="Python.javfinder" />
         <item itemvalue="Python.tu" />
@@ -824,22 +870,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="683" y="0" width="683" height="738" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" weight="0.29464287" />
-      <window_info auto_hide="true" content_ui="combo" x="580" y="218" width="132" height="604" id="Project" order="1" type="WINDOWED" weight="0.16666667" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.11552028" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.11552028" />
+      <window_info auto_hide="true" content_ui="combo" x="580" y="218" width="132" height="604" id="Project" order="2" weight="0.16666667" />
       <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.515625" side_tool="true" weight="0.4557377" />
       <window_info anchor="bottom" id="Version Control" order="1" sideWeight="0.4799107" weight="0.31311476" />
       <window_info anchor="bottom" x="495" y="139" width="863" height="467" id="Python Console" order="2" sideWeight="0.49394855" type="WINDOWED" weight="0.6691589" />
-      <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.48865154" weight="0.2852459" />
+      <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.48865154" weight="0.29139072" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.325" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.22295082" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" sideWeight="0.49924356" weight="0.32333332" />
-      <window_info active="true" anchor="bottom" id="Run" order="10" sideWeight="0.484375" visible="true" weight="0.4718543" />
+      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.484375" weight="0.4718543" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="R Packages" order="0" />
@@ -901,42 +948,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="2018年11月1日23:24:49" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/djproject/mysite/polls/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/mysite/说明.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/mysite改进版 类视图/说明.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1045">
-          <caret line="55" column="7" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/mysite改进版 类视图/polls/templates/polls/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/mysite/polls/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/命令.txt" />
     <entry file="file://$PROJECT_DIR$/djproject/zhuce/login/tests.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1115,15 +1126,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-          <folding>
-            <element signature="e#22#31#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/djproject/yrcxcx/yrcxcx/settings.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://E:/btsync/记录/bbc蓝色星球/03/移动文件.py" />
+    <entry file="file://E:/orangesync/ssss/~神秘代碼C/@VENUS[VEMA]/JAVCoverDL.ver2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="83" column="41" selection-start-line="83" selection-start-column="41" selection-end-line="83" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/caoliu/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/btsync/记录/bbc蓝色星球/04/移动文件.py" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2568">
@@ -1152,36 +1172,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/caoliu/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://E:/orangesync/ssss/~神秘代碼C/@VENUS[VEMA]/JAVCoverDL.ver2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="84" column="41" selection-start-line="84" selection-end-line="84" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/btsync/记录/bbc蓝色星球/03/移动文件.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="8" selection-end-column="41" />
-          <folding>
-            <element signature="e#15#24#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/基础/1-复制大文件.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/爬虫/caoliu/javfinder.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="711">
+        <state relative-caret-position="576">
           <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
           <folding>
             <element signature="e#88#117#0" expanded="true" />
@@ -1190,22 +1183,71 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/基础/1-复制大文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/小程序/移动文件.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-19">
-          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        <state relative-caret-position="216">
+          <caret line="10" selection-start-line="10" selection-end-line="11" />
           <folding>
             <element signature="e#15#24#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/btsync/记录/bbc蓝色星球/04/移动文件.py">
+    <entry file="file://$PROJECT_DIR$/小程序/自动解压rar压缩文件.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/小程序/解压">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/小程序/自动解压rar压缩文件">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="546">
+          <caret line="24" column="51" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/新下载/自动解压大量压缩文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
           <folding>
-            <element signature="e#15#24#0" expanded="true" />
+            <element signature="e#15#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/小程序/解压rar压缩文件">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="459">
+            <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/小程序/自动解压rar压缩文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+          <folding>
+            <element signature="e#15#40#0" expanded="true" />
           </folding>
         </state>
       </provider>

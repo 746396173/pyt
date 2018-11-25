@@ -1,0 +1,36 @@
+
+第一步
+
+安装unrar模块 pip install unrar(怎么用pip就不解释了)
+
+然后尝试在IDE中（我用的是pycharm）输入 from unrar import rarfile并运行，会显示报错：
+
+```python
+LookupError: Couldn't find path to unrar library.
+```
+
+意思是找不到 unrar library的路径，这里我们就需要去下载这个unrar library，
+事实上它就是UnRAR.dll这个东西，下载网址： http://www.rarlab.com/rar/UnRARDLL.exe 
+或者去http://www.rarlab.com/rar_add.htm找到UnRAR.dll下载，在lunix下应该需要自己编译。
+
+第二步：
+
+安装完后我电脑中的路径为C:\Program Files (x86)\UnrarDLL，win7 32位的朋友可以将它添加到环境变量中，64位的将其中的X64文件夹设置为环境变量，因为unrar模块识别的文件是unrar.dll和unrar.lib,所以将文件夹中的UnRAR.dll和UnRAR.lib用小写重命名。
+
+Windows64位的还要将X64下面的UnRAR64.lib和UnRAR64.dall改为unrar.lib和unrar.dall去掉64且为小写。好了，重新尝试 from unrar import rarfile并运行，就成功了！（事实上我还是报错，我把pycharm重新关了之后再启动就好了，可能是pycharm的更新有延迟）
+
+    `注意电脑位数`
+
+第三步：
+
+终于可以开始解压了，命令十分简单
+```python
+from unrar import rarfile
+file = rarfile.RarFile('file_name')  #这里写入的是需要解压的文件，别忘了加路径
+file.extractall('you_want_path')  #这里写入的是你想要解压到的文件夹
+```
+
+另一篇
+
+https://blog.csdn.net/qq_38328875/article/details/79554054
+python中对rar，zip以及tgz压缩包的解压
