@@ -10,7 +10,7 @@ MESSAGE_TYPE_FROM_SERVER = 690
 #tcpClientSocket = None
 
 #打开数据库连接
-db = pymysql.connect("localhost","root","121115","test1",charset='utf8')
+db = pymysql.connect("localhost","root","123456","douyu",charset='utf8')
 #使用cursor（）方法创建一个游标对象 cursor
 cursor = db.cursor()
 # 使用 execute（）方法执行 SQL查询
@@ -29,7 +29,7 @@ def shujuku(ui,u,d):
     danmu =d
 
     # SQL 插入语句
-    sql = """INSERT INTO msi(uid,user,danmu)
+    sql = """INSERT INTO mlxg(uid,user,danmu)
          VALUES ('%s','%s','%s')"""%(uid,user,danmu)#注意写法
     try:
        # 执行sql语句
@@ -67,7 +67,7 @@ def d_m(t, room_in):
     tcpClientSocket = t
     jin(tcpClientSocket ,room)
     pattern1 = r"nn@=[\S]+/txt@="   #昵称     \s	匹配任意空白字符，等价于 [\t\n\r\f]。\S 匹配任意非空字符，有空格则不符合
-    pattern2 = r"/txt@=[\S\s]+/cid@="#弹幕     匹配任意字符
+    pattern2 = r"/txt@=[\S\s]+/cid@="#danmu     匹配任意字符
     pattern3 = r"/uid@=[\S]+/nn@="#用户uid
 
     dm_n = 0

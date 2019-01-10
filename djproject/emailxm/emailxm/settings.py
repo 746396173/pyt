@@ -126,13 +126,13 @@ EMAIL_USE_TLS = False   #是否使用TLS安全传输协议
 EMAIL_USE_SSL = True    #是否使用SSL加密，qq企业邮箱要求使用
 EMAIL_HOST = 'smtp.qq.com'   #发送邮件的邮箱 的 SMTP服务器，这里用了qq企业邮箱
 EMAIL_PORT = 465     #发件箱的SMTP服务器端口
-EMAIL_HOST_USER = 'bingcheng94@qq.com'    #发送邮件的邮箱地址
-EMAIL_HOST_PASSWORD = 'ifvmywhsfiuxbbeb'         #发送邮件的邮箱密码，qq邮箱用的是授权码
+EMAIL_HOST_USER = 'xxx@qq.com'    #发送邮件的邮箱地址
+EMAIL_HOST_PASSWORD = 'xxx'         #发送邮件的邮箱密码，qq邮箱用的是授权码
 
 '''# email setting gmail邮箱
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'djangoceshizhanghao@gmail.com'
+EMAIL_HOST_USER = 'xxx@gmail.com'
 EMAIL_HOST_PASSWORD = '**********'
 EMAIL_USE_TLS = True
 DEFAULT_FROM_EMAIL = EMAIL_HOST_USER

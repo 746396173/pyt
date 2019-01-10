@@ -23,7 +23,7 @@ urlpatterns = [
     url(r'^confirm/$', views.user_confirm),
     url(r'^admin/', admin.site.urls),
     url(r'^index/', views.index),
-    url(r'^login/', views.login),
+    url(r'^product/', views.login),
     url(r'^register/', views.register),
     url(r'^logout/', views.logout),
     url(r'^captcha', include('captcha.urls'))  # 增加这一行

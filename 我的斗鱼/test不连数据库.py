@@ -76,7 +76,7 @@ def d_m(t, room_in):
     tcpClientSocket = t
     jin(tcpClientSocket, room)
     pattern1 = r"nn@=[\S]+/txt@="  # 昵称     \s	匹配任意空白字符，等价于 [\t\n\r\f]。\S 匹配任意非空字符，有空格则不符合
-    pattern2 = r"/txt@=[\S\s]+/cid@="  # 弹幕     匹配任意字符
+    pattern2 = r"/txt@=[\S\s]+/cid@="  # danmu     匹配任意字符
     pattern3 = r"/uid@=[\S]+/nn@="  # 用户uid
 
     dm_n = 0

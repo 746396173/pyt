@@ -9,7 +9,7 @@ import django.db.models.deletion
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('login', '0002_user_kami'),
+        ('product', '0002_user_kami'),
     ]
 
     operations = [
@@ -34,6 +34,6 @@ class Migration(migrations.Migration):
         migrations.AddField(
             model_name='confirmstring',
             name='user',
-            field=models.OneToOneField(on_delete=django.db.models.deletion.CASCADE, to='login.User'),
+            field=models.OneToOneField(on_delete=django.db.models.deletion.CASCADE, to='product.User'),
         ),
     ]

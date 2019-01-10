@@ -5,7 +5,7 @@ import multiprocessing
 from struct import pack, unpack
 import pymysql
 #打开数据库连接
-db = pymysql.connect("localhost","root","121115","test1",charset='utf8')
+db = pymysql.connect("localhost","root","123456","test1",charset='utf8')
 #使用cursor（）方法创建一个游标对象 cursor
 cursor = db.cursor()
 # 使用 execute（）方法执行 SQL查询
@@ -47,7 +47,7 @@ def lian():
 def d_m(t, room):
     room = room
     pattern1 = r"nn@=[\S]+/txt@="   #昵称     \s	匹配任意空白字符，等价于 [\t\n\r\f]。\S 匹配任意非空字符，有空格则不符合
-    pattern2 = r"/txt@=[\S\s]+/cid@="#弹幕     匹配任意字符
+    pattern2 = r"/txt@=[\S\s]+/cid@="#danmu     匹配任意字符
     pattern3 = r"/uid@=[\S]+/nn@="#用户uid
 
     tcpClientSocket = t

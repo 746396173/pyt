@@ -96,7 +96,7 @@ if __name__ == '__main__':
 #room_id = input('请输入房间ID： ')
 
 # 狗贼的房间号
-    room_id = 208114
+    room_id = 5586463
 # 开启signal捕捉
     signal.signal(signal.SIGINT, signal_handler)
 

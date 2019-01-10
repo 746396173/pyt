@@ -7,15 +7,19 @@ import time
 import lxml
 import OpenSSL
 from selenium import webdriver
-
+from selenium.webdriver.firefox.options import Options
 
 mainsite = "http://t66y.com/"
 def getbs(url):#获取页面源代码
-    browser = webdriver.PhantomJS()
-    #browser.set_window_size(10, 15)  # 分辨率 1024*768
+    firefox_options=Options()
+    firefox_options.add_argument("-headless")
+    browser = webdriver.Firefox(firefox_options=firefox_options)
+    #browser = webdriver.PhantomJS()
+    #路径在D:\app\ANACONDA\phantomjs
+    browser.set_window_size(1000, 500)  # 分辨率 1024*768
     # 设定页面加载timeout时长，需要的元素能加载出来就行
-    browser.set_page_load_timeout(20)
-    browser.set_script_timeout(20)
+    browser.set_page_load_timeout(200)
+    browser.set_script_timeout(200)
     try:
         browser.get(url)
     except:
@@ -32,7 +36,7 @@ def getallpageArticleurl(start,end):#取得所设页面的所有文章链接与�
     for i in range(start,end+1):
         url = "http://t66y.com/thread0806.php?fid=16&search=&page={}".format(str(i))
         bsobj = getbs(url)
-        print(bsobj)
+        #print(bsobj)
         urls += bsobj.find_all("a", href = re.compile("^htm_data.*"),id=True)
     print(urls)
     urltitle = [(mainsite + i['href'],i.text) for i in urls]
@@ -42,7 +46,7 @@ def getallpageArticleurl(start,end):#取得所设页面的所有文章链接与�
 
 def getpicofpage(url):
     pattern = r'src="http[\S]+?"'
-    paths = "F:/photos/se/2018-11-2/"
+    paths = "F:/photos/se/2018-12-4/"
     bsobj=getbs(url)
     div=bsobj.find("div",{"class":"tpc_content do_not_catch"})
     if div==None:
@@ -71,7 +75,7 @@ def getpicofpage(url):
             result=str(result[5:-1])
             print('提取到的地址是'+result)
 
-            res = requests.get(result,timeout=80)
+            res = requests.get(result,timeout=150)
             with open(paths +title+"/"+str(time.time())[:10]+".jpg", 'wb') as f:
                 f.write(res.content)
         except  BaseException as e:

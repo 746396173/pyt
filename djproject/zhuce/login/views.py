@@ -42,7 +42,7 @@ def hash_code(s, salt='mysite'):# 加点盐
 
 def index(request):
     pass
-    return render(request, 'login/index.html')
+    return render(request, 'product/index.html')
 
 
 def login(request):
@@ -59,7 +59,7 @@ def login(request):
                 user = models.User.objects.get(name=username)
                 if not user.has_confirmed:
                     message = "该用户还未通过邮件确认！"
-                    return render(request, 'login/login.html', locals())
+                    return render(request, 'product/product.html', locals())
                 if user.password == hash_code(password):
                     #往session字典内写入用户状态和数据：
                     request.session['is_login'] = True
@@ -71,10 +71,10 @@ def login(request):
                     message = "密码不正确！"
             except:
                 message = "用户不存在！"
-        return render(request, 'login/login.html', locals())
+        return render(request, 'product/product.html', locals())
 
     login_form = forms.UserForm()
-    return render(request, 'login/login.html', locals())
+    return render(request, 'product/product.html', locals())
 
 
 def register(request):
@@ -92,16 +92,16 @@ def register(request):
             sex = register_form.cleaned_data['sex']
             if password1 != password2:  # 判断两次密码是否相同
                 message = "两次输入的密码不同！"
-                return render(request, 'login/register.html', locals())
+                return render(request, 'product/register.html', locals())
             else:
                 same_name_user = models.User.objects.filter(name=username)
                 if same_name_user:  # 用户名唯一
                     message = '用户已经存在，请重新选择用户名！'
-                    return render(request, 'login/register.html', locals())
+                    return render(request, 'product/register.html', locals())
                 same_email_user = models.User.objects.filter(email=email)
                 if same_email_user:  # 邮箱地址唯一
                     message = '该邮箱地址已被注册，请使用别的邮箱！'
-                    return render(request, 'login/register.html', locals())
+                    return render(request, 'product/register.html', locals())
 
                 # 当一切都OK的情况下，创建新用户
 
@@ -113,9 +113,9 @@ def register(request):
                 new_user.save()
                 code = make_confirm_string(new_user)
                 send_email(email, code)
-                return redirect('/login/')  # 自动跳转到登录页面
+                return redirect('/product/')  # 自动跳转到登录页面
     register_form = forms.RegisterForm()
-    return render(request, 'login/register.html', locals())
+    return render(request, 'product/register.html', locals())
 
 def logout(request):
     if not request.session.get('is_login', None):
@@ -138,17 +138,17 @@ def user_confirm(request):
         confirm = models.ConfirmString.objects.get(code=code)
     except:
         message = '无效的确认请求!'
-        return render(request, 'login/confirm.html', locals())
+        return render(request, 'product/confirm.html', locals())
 
     c_time = confirm.c_time
     now = datetime.datetime.now()
     if now > c_time + datetime.timedelta(settings.CONFIRM_DAYS):
         confirm.user.delete()
         message = '您的邮件已经过期！请重新注册!'
-        return render(request, 'login/confirm.html', locals())
+        return render(request, 'product/confirm.html', locals())
     else:
         confirm.user.has_confirmed = True
         confirm.user.save()
         confirm.delete()
         message = '感谢确认，请使用账户登录！'
-        return render(request, 'login/confirm.html', locals())
+        return render(request, 'product/confirm.html', locals())

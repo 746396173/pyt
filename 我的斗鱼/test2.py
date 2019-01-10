@@ -5,7 +5,7 @@ import multiprocessing
 from struct import pack, unpack
 import pymysql
 #打开数据库连接
-db = pymysql.connect("localhost","root","121115","test1",charset='utf8')
+db = pymysql.connect("localhost","root","123456","test1",charset='utf8')
 #使用cursor（）方法创建一个游标对象 cursor
 cursor = db.cursor()
 # 使用 execute（）方法执行 SQL查询

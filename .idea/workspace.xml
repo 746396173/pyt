@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/djproject/shop/login/admin.py" line="0" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="af835990-0ee8-4de2-afc5-648fdff15b52" name="Default" comment="2018年11月1日23:24:49">
+    <list default="true" id="af835990-0ee8-4de2-afc5-648fdff15b52" name="Default" comment="2018年11月25日22:50:42">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pyt.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pyt.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djproject/emailxm/emailxm/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/emailxm/emailxm/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djproject/zhuce/login/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/zhuce/login/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djproject/zhuce/login/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/zhuce/login/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djproject/zhuce/login/migrations/0002_user_kami.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/zhuce/login/migrations/0002_user_kami.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djproject/zhuce/login/migrations/0003_auto_20181003_0001.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/zhuce/login/migrations/0003_auto_20181003_0001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djproject/zhuce/login/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/zhuce/login/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djproject/zhuce/zhuce/settings.example.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/zhuce/zhuce/settings.example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djproject/zhuce/zhuce/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djproject/zhuce/zhuce/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/小程序/自动解压rar压缩文件.py" beforeDir="false" afterPath="$PROJECT_DIR$/小程序/自动解压rar压缩文件.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/小程序/解压rar压缩文件" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/我的斗鱼/test-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/我的斗鱼/test-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/我的斗鱼/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/我的斗鱼/test2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/我的斗鱼/test3.py" beforeDir="false" afterPath="$PROJECT_DIR$/我的斗鱼/test3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/我的斗鱼/test4.py" beforeDir="false" afterPath="$PROJECT_DIR$/我的斗鱼/test4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/我的斗鱼/test不连数据库.py" beforeDir="false" afterPath="$PROJECT_DIR$/我的斗鱼/test不连数据库.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/我的斗鱼/斗鱼/dou3.py" beforeDir="false" afterPath="$PROJECT_DIR$/我的斗鱼/斗鱼/dou3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据库/shuju1.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据库/shuju1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/爬虫/caoliu/tu.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/caoliu/tu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/爬虫/笔记.txt" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/笔记.txt" afterDir="false" />
     </list>
     <ignored path=".idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,39 +95,63 @@
     <session id="-1489226305">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.closed" value="27" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.22" value="4" />
-          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.22" value="6" />
+          <entry key="project.open.time.23" value="2" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.25" value="2" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.38" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="368" />
+          <entry key="Python Console" value="552" />
           <entry key="dummy" value="12" />
-          <entry key="py" value="2655" />
-          <entry key="txt" value="22" />
+          <entry key="html" value="970" />
+          <entry key="py" value="8837" />
+          <entry key="txt" value="57" />
+          <entry key="抖音urlfruit" value="1" />
           <entry key="自动解压rar压缩文件" value="2" />
           <entry key="解压rar压缩文件" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="HTML" value="970" />
           <entry key="Markdown" value="46" />
-          <entry key="PLAIN_TEXT" value="36" />
-          <entry key="Python" value="3023" />
+          <entry key="PLAIN_TEXT" value="72" />
+          <entry key="Python" value="9389" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="PY" value="1" />
+          <entry key="css" value="3" />
+          <entry key="html" value="19" />
           <entry key="ipynb" value="1" />
-          <entry key="py" value="10" />
+          <entry key="jpg" value="2" />
+          <entry key="js" value="1" />
+          <entry key="json" value="3" />
+          <entry key="py" value="111" />
+          <entry key="txt" value="11" />
+          <entry key="抖音url" value="1" />
+          <entry key="抖音urlfruit" value="2" />
           <entry key="自动解压rar压缩文件" value="1" />
           <entry key="解压" value="1" />
           <entry key="解压rar压缩文件" value="1" />
@@ -111,10 +159,15 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="CSS" value="3" />
+          <entry key="HTML" value="19" />
           <entry key="IPNB" value="1" />
+          <entry key="Image" value="2" />
+          <entry key="JSON" value="3" />
+          <entry key="JavaScript" value="1" />
           <entry key="Markdown" value="2" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="10" />
+          <entry key="PLAIN_TEXT" value="15" />
+          <entry key="Python" value="112" />
         </counts>
       </usages-collector>
     </session>
@@ -125,88 +178,88 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/我的斗鱼/斗鱼/ddd.py">
+        <entry file="file://$PROJECT_DIR$/我的斗鱼/test0.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1244">
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/我的斗鱼/test不连数据库.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/我的斗鱼/test-1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/数据库/shuju1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/数据库/sqlite/笔记.txt">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/我的斗鱼/斗鱼/dou3.py">
+        <entry file="file://$PROJECT_DIR$/question/Python图片转字符画.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2184">
-              <caret line="95" column="29" selection-start-line="95" selection-start-column="29" selection-end-line="95" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/爬虫/caoliu/tu.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2040">
-              <caret line="93" selection-start-line="93" selection-end-line="93" />
+            <state relative-caret-position="-432">
               <folding>
-                <element signature="e#0#29#0" expanded="true" />
-                <marker date="1541150181312" expanded="true" signature="2303:2304" ph="..." />
+                <element signature="e#0#21#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/爬虫/caoliu/javfinder.py">
+        <entry file="file://$PROJECT_DIR$/question/PASSWORD.PY">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
-              <folding>
-                <element signature="e#88#117#0" expanded="true" />
-                <marker date="1541184646093" expanded="true" signature="291:299" ph="..." />
-              </folding>
-            </state>
+            <state relative-caret-position="-270" />
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/基础/1-复制大文件.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/小程序/移动文件.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="10" selection-start-line="10" selection-end-line="11" />
-              <folding>
-                <element signature="e#15#24#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/djproject/blogproject/blogproject/settings.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/小程序/自动解压rar压缩文件.py">
+        <entry file="file://$PROJECT_DIR$/djproject/emailxm/emailxm/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-              <folding>
-                <element signature="e#15#40#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="330">
+              <caret line="134" column="22" selection-start-line="134" selection-start-column="22" selection-end-line="134" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/小程序/解压rar压缩文件">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="459">
-                <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/数据库/sqlite/根据分数段返回名字.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -215,44 +268,47 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="Python Script" />
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>lan</find>
-      <find>apps</find>
-      <find>ASIA</find>
-      <find>temp</find>
-      <find>staticfiles</find>
-      <find>script</find>
-      <find>article</find>
-      <find>ASIDE</find>
-      <find>main</find>
-      <find>首页</find>
-      <find>log</find>
-      <find>logo</find>
-      <find>stat</find>
-      <find>BLA</find>
-      <find>url</find>
-      <find>path</find>
-      <find>mainsite</find>
-      <find>getpicofpage</find>
-      <find>getallpage</find>
-      <find>tem</find>
-      <find>'DIRS': [BASE_DIR+&quot;/templates&quot;,],</find>
-      <find>middle</find>
-      <find>CsrfResponseMiddleware</find>
-      <find>f</find>
-      <find>LANGUAGE_CODE</find>
-      <find>SECRET_KEY</find>
       <find>paths</find>
       <find>OpenSSL</find>
       <find>title</find>
       <find>720</find>
+      <find>telnet</find>
+      <find>TELNETCO</find>
+      <find>/img</find>
+      <find>/js</find>
+      <find>product</find>
+      <find>product/</find>
+      <find>nivo</find>
+      <find>block_menu.png</find>
+      <find>footer</find>
+      <find>png</find>
+      <find>log in</find>
+      <find>sign</find>
+      <find>img</find>
+      <find>img/</find>
+      <find>/css</find>
+      <find>css/</find>
+      <find>js/</find>
+      <find>kids</find>
+      <find>href</find>
+      <find>css</find>
+      <find>js</find>
+      <find>fonts</find>
+      <find>scr</find>
+      <find>src</find>
+      <find>style</find>
+      <find>product-right</find>
     </findStrings>
+    <dirStrings>
+      <dir>D:\Documents\GitHub\pyt\djproject\zhuce</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -293,50 +349,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/huya/hy1.py" />
-        <option value="$PROJECT_DIR$/djproject/mysite/mysite/settings.py" />
-        <option value="$PROJECT_DIR$/djproject/mysite/polls/models.py" />
-        <option value="$PROJECT_DIR$/djproject/mysite/说明.txt" />
-        <option value="$PROJECT_DIR$/djproject/mysite/mysite/urls.py" />
-        <option value="$PROJECT_DIR$/djproject/mysite/templates/polls/index.html" />
-        <option value="$PROJECT_DIR$/djproject/mysite/polls/urls.py" />
-        <option value="$PROJECT_DIR$/djproject/mysite/polls/templates/polls/index.html" />
-        <option value="$PROJECT_DIR$/djproject/mysite/polls/templates/polls/detail.html" />
-        <option value="$PROJECT_DIR$/djproject/mysite/polls/views.py" />
-        <option value="$PROJECT_DIR$/djproject/mysite/polls/templates/results.html" />
-        <option value="$PROJECT_DIR$/djproject/mysite/polls/templates/polls/results.html" />
-        <option value="$PROJECT_DIR$/djproject/mysite/polls/admin.py" />
-        <option value="$PROJECT_DIR$/djproject/mysite改进版 类视图/说明.txt" />
-        <option value="$PROJECT_DIR$/djproject/mysite改进版 类视图/polls/urls.py" />
-        <option value="$PROJECT_DIR$/djproject/mysite改进版 类视图/polls/views.py" />
-        <option value="$PROJECT_DIR$/djproject/mysite改进版 类视图/polls/templates/polls/index.html" />
-        <option value="$PROJECT_DIR$/djproject/mysite改进版 类视图/polls/static/polls/style.css" />
-        <option value="$PROJECT_DIR$/djproject/mysite改进版 类视图/mysite/urls.py" />
-        <option value="$PROJECT_DIR$/djproject/mysite改进版 类视图/polls/models.py" />
-        <option value="$PROJECT_DIR$/djproject/mysite改进版 类视图/polls/admin.py" />
-        <option value="$PROJECT_DIR$/djproject/zhuce/login/templates/login/login.html" />
-        <option value="$PROJECT_DIR$/djproject/zhuce/templates/base.html" />
-        <option value="$PROJECT_DIR$/djproject/zhuce/login/templates/login/register.html" />
-        <option value="$PROJECT_DIR$/djproject/zhuce/login/forms.py" />
-        <option value="$PROJECT_DIR$/djproject/zhuce/login/templates/login/index.html" />
-        <option value="$PROJECT_DIR$/djproject/mysite改进版 类视图/send_mail.py" />
-        <option value="$PROJECT_DIR$/djproject/mysite改进版 类视图/mysite/settings.py" />
-        <option value="$PROJECT_DIR$/djproject/zhuce/send_mail.py" />
-        <option value="$PROJECT_DIR$/djproject/zhuce/login/models.py" />
-        <option value="$PROJECT_DIR$/djproject/zhuce/login/admin.py" />
-        <option value="$PROJECT_DIR$/djproject/zhuce/zhuce/settings.py" />
-        <option value="$PROJECT_DIR$/djproject/zhuce/login/templates/login/confirm.html" />
-        <option value="$PROJECT_DIR$/djproject/zhuce/zhuce/urls.py" />
-        <option value="$PROJECT_DIR$/djproject/zhuce/static/css/login.css" />
-        <option value="$PROJECT_DIR$/djproject/zhuce/login/views.py" />
-        <option value="$PROJECT_DIR$/djproject/zhuce/.gitignore" />
-        <option value="$PROJECT_DIR$/djproject/zhuce/zhuce/settings.example.py" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/爬虫/caoliu/tu1.py" />
-        <option value="$PROJECT_DIR$/爬虫/caoliu/tu.py" />
-        <option value="$PROJECT_DIR$/爬虫/caoliu/c.py" />
-        <option value="$PROJECT_DIR$/爬虫/caoliu/javfinder.py" />
-        <option value="E:/btsync/记录/bbc蓝色星球/03/移动文件.py" />
         <option value="$PROJECT_DIR$/小程序/移动文件.py" />
         <option value="E:/btsync/记录/bbc蓝色星球/04/移动文件.py" />
         <option value="E:/新下载/自动解压大量压缩文件.py" />
@@ -344,6 +356,50 @@
         <option value="$PROJECT_DIR$/小程序/自动解压rar压缩文件.ipynb" />
         <option value="$PROJECT_DIR$/小程序/自动解压rar压缩文件" />
         <option value="$PROJECT_DIR$/小程序/解压rar压缩文件" />
+        <option value="$PROJECT_DIR$/小程序/自动解压rar压缩文件.py" />
+        <option value="$USER_HOME$/PycharmProjects/weixin/itchat1.py" />
+        <option value="$PROJECT_DIR$/爬虫/solidot/solidot/items.py" />
+        <option value="$PROJECT_DIR$/爬虫/solidot/solidot/middlewares.py" />
+        <option value="$PROJECT_DIR$/爬虫/solidot/solidot/spiders/solidot_spider.py" />
+        <option value="$PROJECT_DIR$/爬虫/solidot/solidot/settings.py" />
+        <option value="$PROJECT_DIR$/爬虫/solidot1/solidot1/items.py" />
+        <option value="$PROJECT_DIR$/爬虫/solidot1/solidot1/spiders/solidot.py" />
+        <option value="$PROJECT_DIR$/爬虫/solidot.py" />
+        <option value="$PROJECT_DIR$/爬虫/caoliu/tu.py" />
+        <option value="$PROJECT_DIR$/小程序/文本去重复行.py" />
+        <option value="$PROJECT_DIR$/小程序/批量改后缀.py" />
+        <option value="$PROJECT_DIR$/抖音/dou1.py" />
+        <option value="$PROJECT_DIR$/小程序/抖音url" />
+        <option value="$PROJECT_DIR$/小程序/抖音urlfruit" />
+        <option value="$PROJECT_DIR$/爬虫/sehuatang1.py" />
+        <option value="$PROJECT_DIR$/我的斗鱼/斗鱼/dou3.py" />
+        <option value="$PROJECT_DIR$/djproject/shop/login/admin.py" />
+        <option value="$PROJECT_DIR$/djproject/shop/login/migrations/__init__.py" />
+        <option value="$PROJECT_DIR$/djproject/shop/login/__init__.py" />
+        <option value="$PROJECT_DIR$/djproject/zhuce/login/__init__.py" />
+        <option value="$PROJECT_DIR$/djproject/shop/login/templates/login/login.html" />
+        <option value="$PROJECT_DIR$/djproject/shop/login/forms.py" />
+        <option value="$PROJECT_DIR$/djproject/shop/product/models.py" />
+        <option value="$PROJECT_DIR$/djproject/shop/product/admin.py" />
+        <option value="$PROJECT_DIR$/djproject/shop/shop/urls.py" />
+        <option value="$PROJECT_DIR$/djproject/shop/login/models.py" />
+        <option value="$PROJECT_DIR$/djproject/shop/login/views.py" />
+        <option value="$PROJECT_DIR$/djproject/shop/shop/views.py" />
+        <option value="$PROJECT_DIR$/djproject/shop/templates/index.html" />
+        <option value="$PROJECT_DIR$/djproject/shop/templates/base.html" />
+        <option value="$PROJECT_DIR$/djproject/shop/product/views.py" />
+        <option value="$PROJECT_DIR$/djproject/shop/product/templates/product/products.html" />
+        <option value="$PROJECT_DIR$/djproject/shop/shop/settings.py" />
+        <option value="$PROJECT_DIR$/爬虫/笔记.txt" />
+        <option value="$PROJECT_DIR$/词云/1.txt" />
+        <option value="$PROJECT_DIR$/词云/1.py" />
+        <option value="$PROJECT_DIR$/爬虫/danmu/huya.py" />
+        <option value="$PROJECT_DIR$/我的斗鱼/test4.py" />
+        <option value="$PROJECT_DIR$/我的斗鱼/test3.py" />
+        <option value="$PROJECT_DIR$/我的斗鱼/test2.py" />
+        <option value="$PROJECT_DIR$/我的斗鱼/test-1.py" />
+        <option value="$PROJECT_DIR$/数据库/shuju1.py" />
+        <option value="$PROJECT_DIR$/djproject/emailxm/emailxm/settings.py" />
       </list>
     </option>
   </component>
@@ -354,9 +410,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="481" />
-    <option name="y" value="67" />
-    <option name="width" value="811" />
+    <option name="width" value="683" />
     <option name="height" value="738" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -385,7 +439,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -396,12 +449,82 @@
             <path>
               <item name="pyt" type="b2602c69:ProjectViewProjectNode" />
               <item name="pyt" type="462c0819:PsiDirectoryNode" />
-              <item name="小程序" type="462c0819:PsiDirectoryNode" />
+              <item name="djproject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pyt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyt" type="462c0819:PsiDirectoryNode" />
+              <item name="djproject" type="462c0819:PsiDirectoryNode" />
+              <item name="blogproject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pyt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyt" type="462c0819:PsiDirectoryNode" />
+              <item name="djproject" type="462c0819:PsiDirectoryNode" />
+              <item name="blogproject" type="462c0819:PsiDirectoryNode" />
+              <item name="blogproject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pyt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyt" type="462c0819:PsiDirectoryNode" />
+              <item name="djproject" type="462c0819:PsiDirectoryNode" />
+              <item name="emailxm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pyt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyt" type="462c0819:PsiDirectoryNode" />
+              <item name="djproject" type="462c0819:PsiDirectoryNode" />
+              <item name="emailxm" type="462c0819:PsiDirectoryNode" />
+              <item name="emailxm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pyt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyt" type="462c0819:PsiDirectoryNode" />
+              <item name="question" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pyt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyt" type="462c0819:PsiDirectoryNode" />
+              <item name="抖音" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pyt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyt" type="462c0819:PsiDirectoryNode" />
+              <item name="数据库" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pyt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyt" type="462c0819:PsiDirectoryNode" />
+              <item name="数据库" type="462c0819:PsiDirectoryNode" />
+              <item name="sqlite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pyt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyt" type="462c0819:PsiDirectoryNode" />
+              <item name="爬虫" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pyt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyt" type="462c0819:PsiDirectoryNode" />
+              <item name="爬虫" type="462c0819:PsiDirectoryNode" />
+              <item name="caoliu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pyt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyt" type="462c0819:PsiDirectoryNode" />
+              <item name="爬虫" type="462c0819:PsiDirectoryNode" />
+              <item name="danmu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pyt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyt" type="462c0819:PsiDirectoryNode" />
+              <item name="词云" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -425,18 +548,18 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\pyt\djproject\zhuce" />
-      <recent name="F:\pyt\爬虫" />
-      <recent name="F:\pyt\我的斗鱼" />
-      <recent name="F:\pyt\基础" />
-      <recent name="F:\pyt\djproject\blogproject\blog\static\blog" />
+      <recent name="D:\Documents\GitHub\pyt\djproject\shop\shop" />
+      <recent name="D:\Documents\GitHub\pyt\djproject\shop" />
+      <recent name="D:\Documents\GitHub\pyt\djproject\shop\login" />
+      <recent name="D:\Documents\GitHub\pyt\djproject\shop\login\login" />
+      <recent name="D:\Documents\GitHub\pyt\小程序" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\pyt\djproject\zhuce\zhuce" />
-      <recent name="E:\pyt\djproject\zhuce\static\images" />
-      <recent name="E:\pyt\djproject\zhuce\login\templates\login" />
-      <recent name="E:\pyt\djproject\zhuce\static\js" />
-      <recent name="E:\pyt\djproject\zhuce\static" />
+      <recent name="D:\Documents\GitHub\pyt\djproject\shop\product\templates\product" />
+      <recent name="D:\Documents\GitHub\pyt\djproject\shop\product" />
+      <recent name="D:\Documents\GitHub\pyt\djproject\shop\login\templates\login" />
+      <recent name="D:\Documents\GitHub\pyt\djproject\shop\static\login" />
+      <recent name="D:\Documents\GitHub\pyt\djproject\shop\templates" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -451,49 +574,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.互不相同无重复数字三位数">
-    <configuration name="移动文件 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pyt" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="E:/btsync/记录/bbc蓝色星球/03" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:/btsync/记录/bbc蓝色星球/03/移动文件.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="移动文件 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pyt" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="E:/btsync/记录/bbc蓝色星球/04" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:/btsync/记录/bbc蓝色星球/04/移动文件.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.1">
     <configuration name="互不相同无重复数字三位数" type="PythonConfigurationType" factoryName="Python">
       <module name="pyt" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -508,6 +589,90 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/question/互不相同无重复数字三位数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/词云" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/词云/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="文本去重复行" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/小程序" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/小程序/文本去重复行.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="批量改后缀" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/小程序" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/小程序/批量改后缀.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="文本去重复行" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/小程序" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/小程序/文本去重复行.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -597,7 +762,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="javfinder" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="dou3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyt" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -605,11 +770,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫/caoliu" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/我的斗鱼/斗鱼" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫/caoliu/javfinder.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/我的斗鱼/斗鱼/dou3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -618,7 +783,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tu" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="shuju1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyt" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -626,11 +791,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫/caoliu" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据库" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫/caoliu/tu.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据库/shuju1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test不连数据库" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/我的斗鱼" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/我的斗鱼/test不连数据库.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/我的斗鱼" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/我的斗鱼/test4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -664,17 +871,19 @@
     <list>
       <item itemvalue="Python.互不相同无重复数字三位数" />
       <item itemvalue="Python.tu1" />
-      <item itemvalue="Python.tu" />
-      <item itemvalue="Python.javfinder" />
-      <item itemvalue="Python.移动文件 (1)" />
-      <item itemvalue="Python.移动文件 (2)" />
+      <item itemvalue="Python.shuju1" />
+      <item itemvalue="Python.test不连数据库" />
+      <item itemvalue="Python.dou3" />
+      <item itemvalue="Python.test4" />
+      <item itemvalue="Python.1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.移动文件 (2)" />
-        <item itemvalue="Python.移动文件 (1)" />
-        <item itemvalue="Python.javfinder" />
-        <item itemvalue="Python.tu" />
+        <item itemvalue="Python.1" />
+        <item itemvalue="Python.test4" />
+        <item itemvalue="Python.dou3" />
+        <item itemvalue="Python.test不连数据库" />
+        <item itemvalue="Python.shuju1" />
       </list>
     </recent_temporary>
   </component>
@@ -857,7 +1066,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541085897723</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="2018年11月25日22:50:42">
+      <created>1543157454798</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1543157454798</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TodoView">
@@ -875,18 +1091,18 @@
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" weight="0.29464287" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.11552028" />
-      <window_info auto_hide="true" content_ui="combo" x="580" y="218" width="132" height="604" id="Project" order="2" weight="0.16666667" />
-      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.515625" side_tool="true" weight="0.4557377" />
-      <window_info anchor="bottom" id="Version Control" order="1" sideWeight="0.4799107" weight="0.31311476" />
-      <window_info anchor="bottom" x="495" y="139" width="863" height="467" id="Python Console" order="2" sideWeight="0.49394855" type="WINDOWED" weight="0.6691589" />
-      <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.48865154" weight="0.29139072" />
+      <window_info active="true" content_ui="combo" x="162" y="321" width="262" height="817" id="Project" order="2" visible="true" weight="0.27083334" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.5186012" side_tool="true" weight="0.31290323" />
+      <window_info anchor="bottom" id="Version Control" order="1" sideWeight="0.48139882" weight="0.31290323" />
+      <window_info anchor="bottom" x="493" y="171" width="863" height="467" id="Python Console" order="2" sideWeight="0.49394855" type="WINDOWED" weight="0.6691589" />
+      <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.48865154" weight="0.05645161" />
       <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" weight="0.325" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.33709678" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.22295082" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" sideWeight="0.49924356" weight="0.32333332" />
-      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.484375" weight="0.4718543" />
+      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.484375" weight="0.33333334" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="R Packages" order="0" />
@@ -898,6 +1114,32 @@
       <window_info anchor="right" id="SciView" order="6" />
       <window_info anchor="right" id="Database" order="7" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" weight="0.29464287" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.11552028" />
+      <window_info active="true" content_ui="combo" x="162" y="321" width="262" height="817" id="Project" order="2" visible="true" weight="0.13913691" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.5186012" side_tool="true" weight="0.31290323" />
+      <window_info anchor="bottom" id="Version Control" order="1" sideWeight="0.48139882" weight="0.31290323" />
+      <window_info anchor="bottom" x="333" y="201" width="863" height="467" id="Python Console" order="2" sideWeight="0.49394855" type="WINDOWED" weight="0.6691589" />
+      <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.48865154" visible="true" weight="0.33548388" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32419354" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.22295082" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" sideWeight="0.49924356" weight="0.32333332" />
+      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.484375" weight="0.34032258" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="R Packages" order="0" />
+      <window_info anchor="right" id="R Graphics" order="1" />
+      <window_info anchor="right" id="Commander" order="2" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="right" id="Mongo Explorer" order="5" />
+      <window_info anchor="right" id="SciView" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -945,310 +1187,350 @@
     <MESSAGE value="2018年10月3日12:59:05" />
     <MESSAGE value="2018年10月3日13:00:21" />
     <MESSAGE value="2018年11月1日23:24:49" />
-    <option name="LAST_COMMIT_MESSAGE" value="2018年11月1日23:24:49" />
+    <MESSAGE value="2018年11月25日22:50:42" />
+    <option name="LAST_COMMIT_MESSAGE" value="2018年11月25日22:50:42" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/djproject/shop/login/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/djproject/shop/login/migrations/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/djproject/zhuce/login/tests.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/mysite改进版 类视图/polls/tests.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/mysite改进版 类视图/polls/apps.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="72">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/mysite改进版 类视图/polls/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-end-line="20" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/mysite改进版 类视图/manage.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/mysite改进版 类视图/polls/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="68" selection-start-line="19" selection-start-column="68" selection-end-line="19" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/mysite改进版 类视图/polls/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/zhuce/static/bootstrap-3.3.7-dist/js/npm.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/zhuce/static/js/jquery-3.2.1.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/zhuce/login/templates/login/base.html" />
-    <entry file="file://$PROJECT_DIR$/djproject/mysite改进版 类视图/polls/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-266">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/mysite改进版 类视图/polls/static/polls/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="27" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="5" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/mysite改进版 类视图/mysite/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/zhuce/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/mysite改进版 类视图/mysite/settings.py" />
-    <entry file="file://$PROJECT_DIR$/djproject/zhuce/send_mail.py" />
     <entry file="file://$PROJECT_DIR$/djproject/zhuce/login/templates/login/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" selection-start-line="4" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/zhuce/zhuce/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/zhuce/login/apps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/zhuce/login/templates/login/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/zhuce/login/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/zhuce/login/templates/login/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/zhuce/login/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/zhuce/login/templates/login/confirm.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/zhuce/static/css/login.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        <state relative-caret-position="48">
+          <caret line="2" column="2" selection-start-line="2" selection-end-line="2" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/djproject/zhuce/login/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        <state relative-caret-position="-264">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/zhuce/zhuce/settings.py" />
-    <entry file="file://$PROJECT_DIR$/djproject/requirements.txt">
+    <entry file="file://$PROJECT_DIR$/djproject/zhuce/login/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/zhuce/.gitignore">
+    <entry file="file://$PROJECT_DIR$/djproject/zhuce/zhuce/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        <state relative-caret-position="338">
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/zhuce/login/admin.py">
+    <entry file="file://$PROJECT_DIR$/djproject/zhuce/login/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2614">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/djproject/shop/login/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/djproject/shop/login/templates/login/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/djproject/shop/product/templates/product/login.html" />
+    <entry file="file://$PROJECT_DIR$/djproject/Django命令.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/caoliu/tu1.py" />
+    <entry file="file://$PROJECT_DIR$/djproject/shop/product/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-70">
+          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/djproject/zhuce/zhuce/settings.example.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2976">
-          <caret line="124" selection-start-line="124" selection-end-line="124" />
+        <state relative-caret-position="24">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/zhuce/manage.py">
+    <entry file="file://$PROJECT_DIR$/djproject/shop/product/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        <state relative-caret-position="96">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/djproject/yrcxcx/yrcxcx/settings.py">
+    <entry file="file://$PROJECT_DIR$/djproject/shop/product/apps.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://E:/btsync/记录/bbc蓝色星球/03/移动文件.py" />
-    <entry file="file://E:/orangesync/ssss/~神秘代碼C/@VENUS[VEMA]/JAVCoverDL.ver2.py">
+    <entry file="file://$PROJECT_DIR$/djproject/shop/shop/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="83" column="41" selection-start-line="83" selection-start-column="41" selection-end-line="83" selection-end-column="41" />
+        <state relative-caret-position="-72">
+          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/caoliu/__init__.py">
+    <entry file="file://$PROJECT_DIR$/djproject/shop/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/djproject/shop/product/templates/product/products.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1608">
+          <caret line="67" column="50" selection-start-line="67" selection-start-column="50" selection-end-line="67" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/djproject/shop/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/djproject/shop/product/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="9" column="58" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/djproject/shop/static/css/style.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://E:/btsync/记录/bbc蓝色星球/04/移动文件.py" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/djproject/shop/shop/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2568">
-          <caret line="107" column="11" selection-start-line="107" selection-start-column="11" selection-end-line="107" selection-end-column="11" />
+        <state relative-caret-position="2016">
+          <caret line="85" column="26" selection-start-line="85" selection-start-column="26" selection-end-line="85" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/我的斗鱼/斗鱼/ddd.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/我的斗鱼/斗鱼/dou3.py">
+    <entry file="file://$PROJECT_DIR$/爬虫/sehuatang1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2184">
-          <caret line="95" column="29" selection-start-line="95" selection-start-column="29" selection-end-line="95" selection-end-column="29" />
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/caoliu/tu.py">
+    <entry file="file://D:/app/ANACONDA/envs/pyt/Lib/site-packages/wordcloud/wordcloud.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2040">
-          <caret line="93" selection-start-line="93" selection-end-line="93" />
+        <state relative-caret-position="129">
+          <caret line="604" selection-start-line="604" selection-end-line="604" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/词云/1.txt" />
+    <entry file="file://$PROJECT_DIR$/词云/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/笔记.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/djproject/shop/shop/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
-            <marker date="1541150181312" expanded="true" signature="2303:2304" ph="..." />
+            <element signature="e#15#50#0" expanded="true" />
+            <marker date="1546943912137" expanded="true" signature="181:186" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/djproject/shop/login/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/djproject/shop/login/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/djproject/shop/login/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+          <folding>
+            <element signature="e#29#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/danmu/huya.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/爬虫/caoliu/javfinder.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+        <state relative-caret-position="-572" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/caoliu/tu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1364">
+          <caret line="28" column="27" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
           <folding>
-            <element signature="e#88#117#0" expanded="true" />
-            <marker date="1541184646093" expanded="true" signature="291:299" ph="..." />
+            <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/基础/1-复制大文件.py">
+    <entry file="file://$PROJECT_DIR$/我的斗鱼/test4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/小程序/移动文件.py">
+    <entry file="file://$PROJECT_DIR$/我的斗鱼/test3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="10" selection-start-line="10" selection-end-line="11" />
+        <state relative-caret-position="168">
+          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
           <folding>
-            <element signature="e#15#24#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/小程序/自动解压rar压缩文件.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
+    <entry file="file://$PROJECT_DIR$/我的斗鱼/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/我的斗鱼/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/小程序/解压">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/小程序/自动解压rar压缩文件">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="24" column="51" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/新下载/自动解压大量压缩文件.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
           <folding>
-            <element signature="e#15#40#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/小程序/解压rar压缩文件">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="459">
-            <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/我的斗鱼/test0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1244">
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/小程序/自动解压rar压缩文件.py">
+    <entry file="file://$PROJECT_DIR$/我的斗鱼/test不连数据库.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        <state>
           <folding>
-            <element signature="e#15#40#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/我的斗鱼/test-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据库/sqlite/根据分数段返回名字.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据库/shuju1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据库/sqlite/笔记.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/question/Python图片转字符画.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-432">
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/question/2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/question/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/question/PASSWORD.PY">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-270" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/djproject/blogproject/blogproject/settings.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/djproject/emailxm/emailxm/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="134" column="22" selection-start-line="134" selection-start-column="22" selection-end-line="134" selection-end-column="22" />
         </state>
       </provider>
     </entry>

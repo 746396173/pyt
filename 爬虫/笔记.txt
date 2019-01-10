@@ -1,3 +1,6 @@
+创建一个scrapy项目
+scrapy startproject mingyan
+
 爬虫运行命令
 scrapy crawl 爬虫名字
 
@@ -25,3 +28,7 @@ body > div.mb.cl.no_bgimg > ul > div > li:nth-child(3) > a
 https://blog.csdn.net/fragmentalice/article/details/74543993
 利用scrapy crawl命令执行爬虫时，数据输出到文件时会保存原始的编码，比如中文会保存为\uXXXX格式。如果想保存中文字符串，需要在添加参数：-s FEED_EXPORT_ENCODING=utf-8
 scrapy crawl spridername -o items.json -s FEED_EXPORT_ENCODING=utf-8
+
+
+
+//*[@id="chat-room__list"]

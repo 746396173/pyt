@@ -1,0 +1,738 @@
+﻿{# 继承母板 #}
+{% extends 'base.html' %}
+{#把自己页面的内容，填入母板里面相应的位置#}
+{% block  css %}
+ 		<!-- CSS  -->
+
+		<!-- Bootstrap CSS
+		============================================ -->
+        <link rel="stylesheet" href="/static/css/bootstrap.min.css">
+
+		<!-- owl.carousel CSS
+		============================================ -->
+        <link rel="stylesheet" href="/static/css/owl.carousel.css">
+
+		<!-- owl.theme CSS
+		============================================ -->
+        <link rel="stylesheet" href="/static/css/owl.theme.css">
+
+		<!-- owl.transitions CSS
+		============================================ -->
+        <link rel="stylesheet" href="/static/css/owl.transitions.css">
+
+		<!-- font-awesome.min CSS
+		============================================ -->
+        <link rel="stylesheet" href="/static/css/font-awesome.min.css">
+
+		<!-- meanmenu CSS
+		============================================ -->
+        <link rel="stylesheet" href="/static/css/meanmenu.min.css" media="all" />
+
+ 		<!-- animate CSS
+		============================================ -->
+        <link rel="stylesheet" href="/static/css/animate.css">
+
+ 		<!-- jquery-ui CSS
+		============================================ -->
+        <link rel="stylesheet" href="/static/css/jquery-ui.css">
+
+		<!-- nivo slider CSS
+		============================================ -->
+		<link rel="stylesheet" href="/static/css/nivo-slider.css" type="text/css" />
+		<link rel="stylesheet" href="/static/css/preview.css" type="text/css" media="screen" />
+
+ 		<!-- normalize CSS
+		============================================ -->
+        <link rel="stylesheet" href="/static/css/normalize.css">
+
+        <!-- main CSS
+		============================================ -->
+        <link rel="stylesheet" href="/static/css/main.css">
+
+        <!-- style CSS
+		============================================ -->
+        <link rel="stylesheet" href="/static/css/style.css">
+
+        <!-- responsive CSS
+		============================================ -->
+        <link rel="stylesheet" href="/static/css/responsive.css">
+
+        <script src="/static/js/vendor/modernizr-2.8.3.min.js"></script>
+{% endblock %}
+{% block main_body %}
+		<!-- Page Medile Section Strat-->
+		<section class="page-medile-section">
+			<div class="container">
+
+				<div class="row">
+					<div class="col-lg-9 col-md-9 col-sm-9">
+						<div class="product-right">
+							<div class="product-right-tab bg-bd">    
+								<ul class="tab-menu top-bg" role="tablist">
+									<li role="presentation" class="active tab-menu-li-one">
+										<a href="#arrival" role="tab" data-toggle="tab">
+										<i class="fa fa-th-large"></i>
+										</a>
+									</li>
+									<li role="presentation" class="tab-menu-li-one">
+										<a href="#bestseller" role="tab" data-toggle="tab"><i class="fa fa-th-list"></i> 
+										</a>
+									</li>
+									<li class="tab-menu-li"><span>Sort by</span>
+										<select name="#" id="#">
+											<option value="#">---</option>
+											<option value="Lowest first">Price: Lowest first</option>
+											<option value="Highest first">Price: Highest first</option>
+											<option value=" A to Z">Product Name: A to Z</option>
+											<option value="In stock">In stock</option>
+											<option value="Lowest first">Reference: Lowest first</option>
+											<option value="Lowest first">Reference: Lowest first</option>
+											<option value="Highest first">Reference: Highest first</option>
+										</select>
+									</li>
+									<li><span>Show</span>
+										<select name="#" class="">
+											<option value="12">12</option>
+											<option value="24">24</option> 
+										</select>
+										<span>per page</span>
+									</li>
+									<li>
+										<p>Compare(0)</p>
+									</li>
+								</ul>						
+								<div class="tab-content"> 
+									<div role="tabpanel" class="tab-pane  active" id="arrival">    
+										<div class="row">
+											<div class="right-all-product">  
+												<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+													<div class="single-product"> 
+														<div class="product-image">
+															 <a href="#"><img src="/static/img/product/printed-chiffon-dress.jpg.png" alt="" />
+															 </a>
+															 <div class="efface"></div>
+															<div class="cart-box"> 
+																<div class="product-text">
+																	<a href="#"><span class="heart"><i class="fa fa-heart"></i></span></a>
+																	<a href="#"><p>add to card</p></a>
+																	<a href="#"><span class="retweet"><i class="fa fa-retweet"></i></span></a> 
+																</div>
+																<div class="link">
+																	<a href="#"><i class="fa fa-search-plus"></i></a>
+																</div> 
+															</div> 													
+														</div> 
+														<div class="price-box"> 
+															<div class="rank">
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart-o"></i></a>
+															</div> 
+															<a href="#"><p>Printed Chiffon Dress</p></a>
+															<div class="price">
+																<a href=""><h5>£40.37</h5></a>
+															</div> 
+														</div>
+														<a href="#"><span class="leval">new</span></a>
+													</div>  
+												</div>  
+												<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+													<div class="single-product"> 
+														<div class="product-image">
+															 <a href="#"><img src="/static/img/product/printed-dress.jpg.png" alt="" />
+															 </a>
+															 <div class="efface"></div>
+															<div class="cart-box"> 
+																<div class="product-text">
+																	<a href="#"><span class="heart"><i class="fa fa-heart"></i></span></a>
+																	<a href="#"><p>add to card</p></a>
+																	<a href="#"><span class="retweet"><i class="fa fa-retweet"></i></span></a> 
+																</div>
+																<div class="link">
+																	<a href="#"><i class="fa fa-search-plus"></i></a>
+																</div> 
+															</div> 													
+														</div> 
+														<div class="price-box"> 
+															<div class="rank">
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart-o"></i></a>
+															</div> 
+															<a href="#"><p>Printed Chiffon Dress</p></a>
+															<div class="price">
+																<a href=""><h5>£ 34.37<span>£ 40.60</span></h5></a>
+															</div>  
+														</div>
+														<a href="#"><span class="leval">new</span></a>
+													</div>  											
+												</div>	 
+												<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+													<div class="single-product"> 
+														<div class="product-image">
+															 <a href="#"><img src="/static/img/product/printed-dress.chear.jpg.png" alt="" /> </a>
+															<div class="cart-box"> 
+																<div class="product-text">
+																	<a href="#"><span class="heart"><i class="fa fa-heart"></i></span></a>
+																	<a href="#"><p>add to card</p></a>
+																	<a href="#"><span class="retweet"><i class="fa fa-retweet"></i></span></a> 
+																</div>
+																<div class="link">
+																	<a href="#"><i class="fa fa-search-plus"></i></a>
+																</div> 
+															</div> 													
+														</div> 
+														<div class="price-box"> 
+															<div class="rank">
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart-o"></i></a>
+															</div> 
+															<a href="#"><p>Blouse</p></a>
+															<div class="price">
+																<a href=""><h5>£ 23.37</h5></a>
+															</div>  
+														</div>
+														<a href="#"><span class="leval">new</span></a>
+													</div>    
+												</div> 
+												<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+													<div class="single-product"> 
+														<div class="product-image">
+															 <a href="#"><img src="/static/img/product/printed-chiffon-bad.jpg.png" alt="" /> </a>
+															<div class="cart-box"> 
+																<div class="product-text">
+																	<a href="#"><span class="heart"><i class="fa fa-heart"></i></span></a>
+																	<a href="#"><p>add to card</p></a>
+																	<a href="#"><span class="retweet"><i class="fa fa-retweet"></i></span></a> 
+																</div>
+																<div class="link">
+																	<a href="#"><i class="fa fa-search-plus"></i></a>
+																</div> 
+															</div> 													
+														</div> 
+														<div class="price-box"> 
+															<div class="rank">
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart-o"></i></a>
+															</div> 
+															<a href="#"><p>Printed Chiffon Dress</p></a>
+															<div class="price">
+																<a href=""><h5>£ 40.37<span>£ 44.60</span></h5></a>
+															</div>
+															 <span class="descount">seal</span> 
+														</div>
+														<a href="#"><span class="leval">new</span></a>
+													</div>  												
+												</div>	 
+												<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+													<div class="single-product"> 
+														<div class="product-image">
+															 <a href="#"><img src="/static/img/product/printed.jpg.png" alt="" /> </a>
+															<div class="cart-box"> 
+																<div class="product-text">
+																	<a href="#"><span class="heart"><i class="fa fa-heart"></i></span></a>
+																	<a href="#"><p>add to card</p></a>
+																	<a href="#"><span class="retweet"><i class="fa fa-retweet"></i></span></a> 
+																</div>
+																<div class="link">
+																	<a href="#"><i class="fa fa-search-plus"></i></a>
+																</div> 
+															</div> 													
+														</div> 
+														<div class="price-box"> 
+															<div class="rank">
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart-o"></i></a>
+															</div> 
+															<a href="#"><p>Printed Dress</p></a>
+															<div class="price">
+																<a href=""><h5>£ 23.37<span>£ 24.60</span></h5></a>
+															</div>
+															 <span class="descount">seal</span> 
+														</div>
+														<a href="#"><span class="leval">new</span></a>
+													</div>    
+												</div>   
+												<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+													<div class="single-product"> 
+														<div class="product-image">
+															 <a href="#"><img src="/static/img/product/printed-summer-dress.jpg.png" alt="" /> </a>
+															<div class="cart-box"> 
+																<div class="product-text">
+																	<a href="#"><span class="heart"><i class="fa fa-heart"></i></span></a>
+																	<a href="#"><p>add to card</p></a>
+																	<a href="#"><span class="retweet"><i class="fa fa-retweet"></i></span></a> 
+																</div>
+																<div class="link">
+																	<a href="#"><i class="fa fa-search-plus"></i></a>
+																</div> 
+															</div> 													
+														</div> 
+														<div class="price-box"> 
+															<div class="rank">
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart-o"></i></a>
+															</div> 
+															<a href="#"><p>Printed Dress</p></a>
+															<div class="price">
+																<a href=""><h5>£ 23.37<span>£ 24.60</span></h5></a>
+															</div> 
+														</div>
+														<a href="#"><span class="leval">new</span></a>
+													</div>  												
+												</div>	 
+												<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+													<div class="single-product"> 
+														<div class="product-image">
+															 <a href="#"><img src="/static/img/product/blouse.jpg.png" alt="" /> </a>
+															<div class="cart-box"> 
+																<div class="product-text">
+																	<a href="#"><span class="heart"><i class="fa fa-heart"></i></span></a>
+																	<a href="#"><p>add to card</p></a>
+																	<a href="#"><span class="retweet"><i class="fa fa-retweet"></i></span></a> 
+																</div>
+																<div class="link">
+																	<a href="#"><i class="fa fa-search-plus"></i></a>
+																</div> 
+															</div> 													
+														</div> 
+														<div class="price-box"> 
+															<div class="rank">
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart-o"></i></a>
+															</div> 
+															<a href="#"><p>Printed Chiffon Dress</p></a>
+															<div class="price">
+																<a href=""><h5>£ 23.37<span>£ 24.60</span></h5></a>
+															</div>
+															 <span class="descount">5%</span> 
+														</div>
+														<a href="#"><span class="leval">new</span></a>
+													</div>    
+												</div> 
+												<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+													<div class="single-product"> 
+														<div class="product-image">
+															 <a href="#"><img src="/static/img/product/faded-short-tshirt.jpg.png" alt="" /> </a>
+															<div class="cart-box"> 
+																<div class="product-text">
+																	<a href="#"><span class="heart"><i class="fa fa-heart"></i></span></a>
+																	<a href="#"><p>add to card</p></a>
+																	<a href="#"><span class="retweet"><i class="fa fa-retweet"></i></span></a> 
+																</div>
+																<div class="link">
+																	<a href="#"><i class="fa fa-search-plus"></i></a>
+																</div> 
+															</div> 													
+														</div> 
+														<div class="price-box"> 
+															<div class="rank">
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart-o"></i></a>
+															</div> 
+															<a href="#"><p>Printed Chiffon Dress</p></a>
+															<div class="price">
+																<a href=""><h5>£ 23.37<span>£ 24.60</span></h5></a>
+															</div>
+															 <span class="descount">5%</span> 
+														</div>
+														<a href="#"><span class="leval">new</span></a>
+													</div>  												
+												</div>	  
+												<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+													<div class="single-product"> 
+														<div class="product-image">
+															 <a href="#"><img src="/static/img/product/faded-short-sleeves-tshirt.jpg.png" alt="" /> </a>
+															<div class="cart-box"> 
+																<div class="product-text">
+																	<a href="#"><span class="heart"><i class="fa fa-heart"></i></span></a>
+																	<a href="#"><p>add to card</p></a>
+																	<a href="#"><span class="retweet"><i class="fa fa-retweet"></i></span></a> 
+																</div>
+																<div class="link">
+																	<a href="#"><i class="fa fa-search-plus"></i></a>
+																</div> 
+															</div> 													
+														</div> 
+														<div class="price-box"> 
+															<div class="rank">
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart-o"></i></a>
+															</div> 
+															<a href="#"><p>Printed Chiffon Dress</p></a>
+															<div class="price">
+																<a href=""><h5>£ 23.37<span>£ 24.60</span></h5></a>
+															</div>
+															 <span class="descount">5%</span> 
+														</div>
+														<a href="#"><span class="leval">new</span></a>
+													</div>   
+												</div> 
+												<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+													<div class="single-product"> 
+														<div class="product-image">
+															 <a href="#"><img src="/static/img/product/dress.jpg.png" alt="" /> </a>
+															<div class="cart-box"> 
+																<div class="product-text">
+																	<a href="#"><span class="heart"><i class="fa fa-heart"></i></span></a>
+																	<a href="#"><p>add to card</p></a>
+																	<a href="#"><span class="retweet"><i class="fa fa-retweet"></i></span></a> 
+																</div>
+																<div class="link">
+																	<a href="#"><i class="fa fa-search-plus"></i></a>
+																</div> 
+															</div> 
+														</div> 
+														<div class="price-box"> 
+															<div class="rank">
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart-o"></i></a>
+															</div> 
+															<a href="#"><p>Printed Chiffon Dress</p></a>
+															<div class="price">
+																<a href=""><h5>£ 23.37<span>£ 24.60</span></h5></a>
+															</div>
+															 <span class="descount">5%</span> 
+														</div>
+														<a href="#"><span class="leval">new</span></a>
+													</div>  												
+												</div>	
+												<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+													<div class="single-product"> 
+														<div class="product-image">
+															 <a href="#"><img src="/static/img/product/printed-dress.chear.jpg.png" alt="" /> </a>
+															<div class="cart-box"> 
+																<div class="product-text">
+																	<a href="#"><span class="heart"><i class="fa fa-heart"></i></span></a>
+																	<a href="#"><p>add to card</p></a>
+																	<a href="#"><span class="retweet"><i class="fa fa-retweet"></i></span></a> 
+																</div>
+																<div class="link">
+																	<a href="#"><i class="fa fa-search-plus"></i></a>
+																</div> 
+															</div> 													
+														</div> 
+														<div class="price-box"> 
+															<div class="rank">
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart-o"></i></a>
+															</div> 
+															<a href="#"><p>Blouse</p></a>
+															<div class="price">
+																<a href=""><h5>£ 23.37</h5></a>
+															</div>  
+														</div>
+														<a href="#"><span class="leval">new</span></a>
+													</div>    
+												</div> 
+												<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+													<div class="single-product"> 
+														<div class="product-image">
+															 <a href="#"><img src="/static/img/product/printed-dress.chear.jpg.png" alt="" /> </a>
+															<div class="cart-box"> 
+																<div class="product-text">
+																	<a href="#"><span class="heart"><i class="fa fa-heart"></i></span></a>
+																	<a href="#"><p>add to card</p></a>
+																	<a href="#"><span class="retweet"><i class="fa fa-retweet"></i></span></a> 
+																</div>
+																<div class="link">
+																	<a href="#"><i class="fa fa-search-plus"></i></a>
+																</div> 
+															</div> 													
+														</div> 
+														<div class="price-box"> 
+															<div class="rank">
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart"></i></a>
+																<a href="#"><i class="fa fa-heart-o"></i></a>
+															</div> 
+															<a href="#"><p>Blouse</p></a>
+															<div class="price">
+																<a href=""><h5>£ 23.37</h5></a>
+															</div>  
+														</div>
+														<a href="#"><span class="leval">new</span></a>
+													</div>    
+												</div> 													
+											</div>
+										</div>
+									</div> 
+									<div role="tabpanel" class="tab-pane" id="bestseller">    
+										<div class="row">
+											<div class="right-all-product" id="right-ap">  							
+												<ul>
+													<li> 
+														<div class="row">
+															<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"> 
+																<div class="product-image">
+																	 <a href="#"><img src="/static/img/product/printed-chiffon-dress.jpg.png" alt="" /> </a>
+																</div> 
+																<a href="#"><span class="leval">new</span></a>  
+															</div>
+															<div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+																<div class="price-box"> 
+																	<a href="#"><p class="price-box-heading">Printed Chiffon Dress</p></a>
+																	<div class="price">
+																		<a href=""><h5>£ 35.37<span>£ 30.60</span></h5></a>
+																		<div class="rank">
+																			<a href="#"><i class="fa fa-heart"></i></a>
+																			<a href="#"><i class="fa fa-heart"></i></a>
+																			<a href="#"><i class="fa fa-heart"></i></a>
+																			<a href="#"><i class="fa fa-heart"></i></a>
+																			<a href="#"><i class="fa fa-heart-o"></i></a>
+																		</div> 										
+																	</div> 
+																	<p class="desc">Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer! </p>
+																	<div class="action">
+																		<div class="cart-box"> 
+																			<div class="product-text">
+																				<a href="#"><span class="heart"><i class="fa fa-heart"></i></span></a>
+																				<a href="#"><p>add to card</p></a>
+																				<a href="#"><span class="retweet"><i class="fa fa-retweet"></i></span></a> 
+																				<a href="#"><i class="fa fa-search-plus"></i></a>
+																			</div> 
+																		</div> 		
+																	</div>
+																	<div class="color-list">
+																		<ul>
+																			<li><a class="orange" href="#"></a></li>
+																			<li><a class="pink" href="#"></a></li>
+																		</ul>
+																	</div>
+																	<span>In stock</span>
+																</div> 	
+															</div>
+														</div> 
+													</li>
+													<li> 
+														<div class="row">
+															<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"> 
+																<div class="product-image">
+																	 <a href="#"><img src="/static/img/product/printed-dress.chear.jpg.png" alt="" /> </a>
+																</div> 
+																<a href="#"><span class="leval">new</span></a>  
+															</div>
+															<div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+																<div class="price-box"> 
+																	<a href="#"><p class="price-box-heading">Faded Short Sleeves T-shirt</p></a>
+																	<div class="price">
+																		<a href=""><h5>£ 29.37<span>£ 24.60</span></h5></a>
+																		<div class="rank">
+																			<a href="#"><i class="fa fa-heart"></i></a>
+																			<a href="#"><i class="fa fa-heart"></i></a>
+																			<a href="#"><i class="fa fa-heart"></i></a>
+																			<a href="#"><i class="fa fa-heart"></i></a>
+																			<a href="#"><i class="fa fa-heart-o"></i></a>
+																		</div> 										
+																	</div> 
+																	<p class="desc">Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer! </p>
+																	<div class="action">
+																		<div class="cart-box"> 
+																			<div class="product-text">
+																				<a href="#"><span class="heart"><i class="fa fa-heart"></i></span></a>
+																				<a href="#"><p>add to card</p></a>
+																				<a href="#"><span class="retweet"><i class="fa fa-retweet"></i></span></a> 
+																				<a href="#"><i class="fa fa-search-plus"></i></a>
+																			</div> 
+																		</div> 		
+																	</div>
+																	<div class="color-list">
+																		<ul>
+																			<li><a class="orange" href="#"></a></li>
+																			<li><a class="pink" href="#"></a></li>
+																			<li><a class="Orange" href="#"></a></li>
+																		</ul>
+																	</div>
+																	<span>In stock</span>
+																</div> 	
+															</div>
+														</div> 
+													</li>
+													<li> 
+														<div class="row">
+															<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"> 
+																<div class="product-image">
+																	 <a href="#"><img src="/static/img/product/printed-dress.jpg.png" alt="" /> </a>
+																</div> 
+																<a href="#"><span class="leval">new</span></a>  
+															</div>
+															<div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+																<div class="price-box"> 
+																	<a href="#"><p class="price-box-heading">Blouse</p></a>
+																	<div class="price">
+																		<a href=""><h5>£ 23.37<span>£ 24.60</span></h5></a>
+																		<div class="rank">
+																			<a href="#"><i class="fa fa-heart"></i></a>
+																			<a href="#"><i class="fa fa-heart"></i></a>
+																			<a href="#"><i class="fa fa-heart"></i></a>
+																			<a href="#"><i class="fa fa-heart"></i></a>
+																			<a href="#"><i class="fa fa-heart-o"></i></a>
+																		</div> 										
+																	</div> 
+																	<p class="desc">Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer! </p>
+																	<div class="action">
+																		<div class="cart-box"> 
+																			<div class="product-text">
+																				<a href="#"><span class="heart"><i class="fa fa-heart"></i></span></a>
+																				<a href="#"><p>add to card</p></a>
+																				<a href="#"><span class="retweet"><i class="fa fa-retweet"></i></span></a> 
+																				<a href="#"><i class="fa fa-search-plus"></i></a>
+																			</div> 
+																		</div> 		
+																	</div>
+																	<div class="color-list">
+																		<ul>
+																			<li><a class="white" href="#"></a></li>
+																			<li><a class="orange" href="#"></a></li>
+																			<li><a class="pink" href="#"></a></li>
+																		</ul>
+																	</div>
+																	<span>In stock</span>
+																</div> 	
+															</div>
+														</div> 
+													</li>
+													<li> 
+														<div class="row">
+															<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"> 
+																<div class="product-image">
+																	 <a href="#"><img src="/static/img/product/blouse.jpg.png" alt="" /> </a>
+																</div> 
+																<a href="#"><span class="leval">new</span></a>  
+															</div>
+															<div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+																<div class="price-box"> 
+																	<a href="#"><p class="price-box-heading">Chiffon Dress</p></a>
+																	<div class="price">
+																		<a href=""><h5>£ 20.37<span>£ 18.60</span></h5></a>
+																		<div class="rank">
+																			<a href="#"><i class="fa fa-heart"></i></a>
+																			<a href="#"><i class="fa fa-heart"></i></a>
+																			<a href="#"><i class="fa fa-heart"></i></a>
+																			<a href="#"><i class="fa fa-heart"></i></a>
+																			<a href="#"><i class="fa fa-heart-o"></i></a>
+																		</div> 										
+																	</div> 
+																	<p class="desc">Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer! </p>
+																	<div class="action">
+																		<div class="cart-box"> 
+																			<div class="product-text">
+																				<a href="#"><span class="heart"><i class="fa fa-heart"></i></span></a>
+																				<a href="#"><p>add to card</p></a>
+																				<a href="#"><span class="retweet"><i class="fa fa-retweet"></i></span></a> 
+																				<a href="#"><i class="fa fa-search-plus"></i></a>
+																			</div> 
+																		</div> 		
+																	</div>
+																	<div class="color-list">
+																		<ul>
+																			<li><a class="orange" href="#"></a></li>
+																			<li><a class="white" href="#"></a></li>
+																			<li><a class="pink" href="#"></a></li>
+																		</ul>
+																	</div>
+																	<span>In stock</span>
+																</div> 	
+															</div>
+														</div> 
+													</li>
+													<li> 
+														<div class="row">
+															<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12"> 
+																<div class="product-image">
+																	 <a href="#"><img src="/static/img/product/printed-chiffon-dress.jpg.png" alt="" /> </a>
+																</div> 
+																<a href="#"><span class="leval">new</span></a>  
+															</div>
+															<div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+																<div class="price-box"> 
+																	<a href="#"><p class="price-box-heading">Printed Chiffon Dress</p></a>
+																	<div class="price">
+																		<a href=""><h5>£ 23.37<span>£ 24.60</span></h5></a>
+																		<div class="rank">
+																			<a href="#"><i class="fa fa-heart"></i></a>
+																			<a href="#"><i class="fa fa-heart"></i></a>
+																			<a href="#"><i class="fa fa-heart"></i></a>
+																			<a href="#"><i class="fa fa-heart"></i></a>
+																			<a href="#"><i class="fa fa-heart-o"></i></a>
+																		</div> 										
+																	</div> 
+																	<p class="desc">Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer! </p>
+																	<div class="action">
+																		<div class="cart-box"> 
+																			<div class="product-text">
+																				<a href="#"><span class="heart"><i class="fa fa-heart"></i></span></a>
+																				<a href="#"><p>add to card</p></a>
+																				<a href="#"><span class="retweet"><i class="fa fa-retweet"></i></span></a> 
+																				<a href="#"><i class="fa fa-search-plus"></i></a>
+																			</div> 
+																		</div> 		
+																	</div>
+																	<div class="color-list">
+																		<ul>
+																			<li><a class="orange" href="#"></a></li>
+																			<li><a class="pink" href="#"></a></li>
+																		</ul>
+																	</div>
+																	<span>In stock</span>
+																</div> 	
+															</div>
+														</div> 
+													</li>
+												</ul>
+												<div class="previous-next">
+													<ul class="pagination">
+														<li class="previous"><a href="#">Previous</a></li>
+														<li><a href="#">1</a></li>
+														<li class="active"><a href="#">2</a></li>
+														<li><a href="#">3</a></li>
+														<li><a href="#">4</a></li>
+														<li class="next"><a href="#">Next</a></li>
+													</ul>
+												</div>
+											</div>  
+										</div>
+									</div>
+								</div>
+							</div>  
+						</div>								
+					</div>
+				</div>
+			</div> 
+		</section>
+		<!-- Page Medile Section End-->
+{% endblock %}
+
